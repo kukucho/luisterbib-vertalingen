@@ -130,7 +130,42 @@ Tu-vorm (jij). Elke ziektenaam: officiële Italiaanse medische term (zoals een a
 - (Per ziekte/klacht: officiële Italiaanse term; bv. aambeien → emorroidi, aften → afte, acute astma → asma acuta, hartafwijking → cardiopatia congenita, ADD/ADHD → ADD/ADHD (disturbo da deficit di attenzione e iperattività))
 
 ## GermanseGeneeskunde
-(nog aan te vullen)
+Gangbare Italiaanse GNM-terminologie (Nuova Medicina Germanica). Aanspreking: onpersoonlijk/neutraal, zoals de bron.
+- Germaanse Nieuwe Geneeskunde (GNM) → Nuova Medicina Germanica (GNM)
+- vanuit de Germaanse Nieuwe Geneeskunde → dal punto di vista della Nuova Medicina Germanica
+- Dr. Ryke Geerd Hamer → Dr. Ryke Geerd Hamer (niet vertalen); Dirk Hamer → Dirk Hamer
+- Hamer-analyst (ondertekening) → analista Hamer (indien in de bron staat; zie Hellinger: «analista Hamer»)
+- SBS (Zinvol Biologisch Speciaalprogramma) → SBS, Programma Speciale Biologico dotato di Senso
+- biologisch (speciaal)programma → programma biologico (speciale)
+- DHS (Dirk Hamer Syndroom) → DHS, Sindrome di Dirk Hamer
+- conflictschok → shock conflittuale
+- biologisch conflict → conflitto biologico; conflict → conflitto
+- conflictactieve fase / conflictactiviteit → fase attiva del conflitto / attività del conflitto
+- conflictoplossing / conflictresolutie → soluzione del conflitto
+- oplossingsfase / genezingsfase → fase di soluzione (fase di guarigione)
+- PCL-A / PCL-B → PCL-A / PCL-B (fase di soluzione iniziale / finale; sigla behouden)
+- epileptoïde crisis (EP-crisis) → crisi epilettoide (crisi EP)
+- conflictinhoud / conflictthema → contenuto del conflitto / tema del conflitto
+- conflictrecidief → recidiva del conflitto; spoor/track → binario (track)
+- Hamerse haard (HH) → focolaio di Hamer (FH)
+- kiemlaag → foglietto embrionale; endoderm → endoderma; mesoderm → mesoderma; ectoderm → ectoderma
+- oud/nieuw mesoderm → mesoderma antico / mesoderma nuovo
+- sympathicotonie → simpaticotonia; vagotonie → vagotonia
+- tweefasigheid → bifasicità
+- IJzeren Wet van Kanker → Legge Ferrea del Cancro
+- Eerste/Tweede/Derde/Vierde/Vijfde Biologische Wet → Prima/Seconda/Terza/Quarta/Quinta Legge Biologica; Kwintessens → Quintessenza
+- ontogenetisch systeem van tumoren/microben → sistema ontogenetico dei tumori / dei microbi
+- biologische resonantie → risonanza biologica
+- hersenrelais → relè cerebrale; hersenschors → corteccia cerebrale
+- lateraliteit → lateralità; rechtshandig/linkshandig → destrimane/mancino
+- territoriumconflict → conflitto territoriale
+- zelfwaardeverlies-conflict → conflitto di svalutazione di sé
+- verlieslconflict → conflitto di perdita
+- vluchtconflict → conflitto di fuga
+- schrikconflict → conflitto di spavento
+- afschuwconflict / walgingconflict → conflitto di disgusto (conflitto di ribrezzo)
+- (reguliere geneeskunde → medicina convenzionale; schoolgeneeskunde → medicina ufficiale)
+- (nieuwe termen onderaan toevoegen)
 
 ## Geneeskunde
 (nog aan te vullen)
