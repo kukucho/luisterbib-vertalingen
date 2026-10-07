@@ -92,7 +92,32 @@ Vaste termen; gebruik consequent. Per onderdeel een sectie, uit te breiden (nieu
 - kiemlaag etc. → zie sectie GermanseGeneeskunde (nog aan te vullen)
 
 ## Beerlandt
-(nog aan te vullen vóór aanvang Beerlandt)
+Tu-vorm (jij). Elke ziektenaam: officiële Italiaanse medische term (zoals een arts hem zegt), de titel van de tekst volgt de bron.
+- Beerlandt, De Sleutel tot Zelfbevrijding → «Beerlandt, De sleutel tot zelfbevrijding» (originele titel behouden; geen officiële Italiaanse titel bekend)
+- Christiane Beerlandt → Christiane Beerlandt (niet vertalen)
+- Kernoorsprong → Origine essenziale
+- Weg naar genezing / De weg naar genezing → Il cammino verso la guarigione
+- zelfbevrijding → liberazione di sé (autoliberazione)
+- loslaten → lasciar andare
+- vasthouden → trattenere / aggrapparsi
+- angst → paura (angst voor iets) / angoscia (diepe angst)
+- vertrouwen → fiducia
+- levensenergie → energia vitale
+- innerlijke krachten → forze interiori
+- onbewust → inconscio
+- gevoel(ens) → sentimento / sentimenti; emotie → emozione
+- schuldgevoel → senso di colpa
+- onvermogen → incapacità
+- beklemd zijn → sentirsi oppresso
+- verlangen → desiderio
+- zelfbeperking → autolimitazione
+- zelfvernietiging → autodistruzione
+- woede → rabbia; agressie → aggressività
+- genezing → guarigione
+- bewust(zijn) → consapevole / consapevolezza
+- de ziekte als boodschap → la malattia come messaggio
+- ego → ego
+- (Per ziekte/klacht: officiële Italiaanse term; bv. aambeien → emorroidi, aften → afte, acute astma → asma acuta, hartafwijking → cardiopatia congenita, ADD/ADHD → ADD/ADHD (disturbo da deficit di attenzione e iperattività))
 
 ## GermanseGeneeskunde
 (nog aan te vullen)
