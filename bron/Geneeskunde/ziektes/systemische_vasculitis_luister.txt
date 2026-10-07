@@ -1,0 +1,25 @@
+Systemische vasculitis. Hoofdstuk drieëntachtig van Cecil's Essentials of Medicine.
+
+De primaire systemische vasculitiden zijn inflammatoire aandoeningen van bloedvaten gekenmerkt door immuungemedieerde schade die leidt tot vatvernietiging, trombose, stenose of een combinatie hiervan. Bloedvaten in elk orgaan kunnen zijn aangetast, maar elke vasculitis heeft een andere voorkeur voor vaatgrootte of doelgebied. Hoewel zeldzaam, kunnen ze orgaan- of levensbedreigend zijn, wat snelle diagnose en behandeling vereist.
+
+De vasculitiden worden ingedeeld op basis van vaatgrootte. Bij groot-vat vasculitis gaat het om reuscelarteriitis en Takayasu-arteriitis. Bij middel-vat vasculitis gaat het om polyarteriitis nodosa en Kawasaki-ziekte. Bij klein-vat vasculitis onderscheiden we de ANCA-geassocieerde vasculitiden, waaronder GPA (vroeger Wegener-granulomatose), microscopische polyangiitis of MPA, en EGPA ook bekend als Churg-Strauss syndroom. Verder zijn er immuuncomplexgemedieerde klein-vat vasculitiden zoals Henoch-Schönlein Purpura.
+
+Constitutionele symptomen zoals koorts, gewichtsverlies, malaise, anorexie, artralgie en myalgie treden op bij alle vasculitiden.
+
+GPA, vroeger Wegener-granulomatose, begint met betrokkenheid van de sinussen en de bovenste luchtwegen: chronische refractaire sinusitis, nasale korstvorming en ulcera, bloedneuzen en een zadelvormige neusdeformiteit. Longmanifestaties zijn pulmonale noduli, die vaak hol zijn, infiltraten en diffuse alveolaire bloeding. De nieren tonen een pauci-immuun crescentische glomerulonefritis met hematurie, hypertensie en proteïnurie.
+
+EGPA, het Churg-Strauss syndroom, wordt gekenmerkt door ernstig astma, eosinofilie van meer dan vijftienhonderd cellen per milliliter en vasculitis met betrokkenheid van twee of meer organen.
+
+Henoch-Schönlein Purpura manifesteert zich met purpura aan de onderste ledematen, artritis, buikpijn en nierziekte. Bij biopsie wordt IgA-depositie gevonden. De piekleeftijd is vier tot zes jaar en de ziekte is meer voorkomend bij jongens.
+
+Polyarteriitis nodosa toont aneurysmatische en stenotische laesies van musculaire slagaders. Er is gastro-intestinale betrokkenheid met intestinale angina, nierarteriebetrokkenheid met hypertensie, en mononeuritis multiplex. ANCA's zijn gewoonlijk negatief. Er is een associatie met hepatitis B of C en HIV.
+
+Kawasaki-ziekte treft meest jongens jonger dan vijf jaar. Kenmerken zijn koorts langer dan vijf dagen, conjunctivale injectie, orofaryngeale veranderingen zoals de aardbeitong, slijmvliesdroging, uitslag en cervicale lymfadenopathie. De ernstige complicatie is coronaire aneurysmata, detecteerbaar binnen de eerste vier weken.
+
+Reuscelarteriitis is de meest voorkomende vasculitis bij volwassenen, met een aanvangsleeftijd van vijfenzestig tot vijfenzeventig jaar. Vrouwen worden vaker aangetast in een verhouding van drie staat tot één. Circa veertig procent heeft polymyalgia rheumatica. Klinisch zijn er nieuwe aanhoudende hoofdpijn, kaakclaudicatie, visuele stoornissen waaronder amaurosis fugax en diplopie, en vermoeidheid. De temporale slagaders zijn drukpijnlijk en verdikt. De BSE is verhoogd, doorgaans meer dan vijftig millimeter per uur. Blindheid door anterieure ischemische optische neuropathie treedt op bij tien tot vijftien procent van de patiënten. De diagnose wordt gesteld via biopsie van de oppervlakkige temporale slagader.
+
+Takayasu-arteriitis toont een systolisch bloeddruksverschil van meer dan tien millimeter kwik tussen de armen, verminderde polsen in de brachiale of radiale slagader, en bruits boven de subclaviale slagaders of aorta. Claudicatie, nek- of kaakpijn, hoofdpijn en duizeligheid zijn kenmerkend. De diagnose berust op vasculaire beeldvorming.
+
+Bij de behandeling worden glucocorticoïden en cyclofosfamide of rituximab gebruikt voor inductie van ANCA-geassocieerde vasculitis, gevolgd door methotrexaat, azathioprine of rituximab voor onderhoud. EGPA wordt behandeld met glucocorticoïden en immunosuppressie; mepolizumab wordt ingezet bij refractaire ziekte. Kawasaki-ziekte wordt behandeld met hoog-dosisasprine en intraveneus immuunglobuline. Reuscelarteriitis wordt behandeld met prednison één milligram per kilogram per dag; tocilizumab wordt ingezet bij recidiverende of refractaire ziekte. Plasmaferese wordt gebruikt bij levensbedreigende ANCA-geassocieerde vasculitis met pulmonaal-renaal syndroom of alveolaire bloeding.
+
+De prognose van ANCA-geassocieerde vasculitis was vroeger geassocieerd met tachtig procent sterfte in twee jaar onbehandeld; met huidige behandeling is de vijfjaarsoverleving vijfenveertig tot eenennegentig procent. Van patiënten met renale betrokkenheid bij presentatie ontwikkelt twintig procent eindstadium nierziekte binnen vijf jaar. HSP heeft over het algemeen een goede prognose. Kawasaki-ziekte heeft bij prompte behandeling een goede uitkomst, maar vijftien tot vijfentwintig procent ontwikkelt coronaire aneurysmata. Reuscelarteriitis en Takayasu-arteriitis zijn chronische, progressieve, recidiverende aandoeningen die voortdurende monitoring vereisen.

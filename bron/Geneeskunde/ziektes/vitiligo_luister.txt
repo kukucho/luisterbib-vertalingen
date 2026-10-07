@@ -1,0 +1,9 @@
+Vitiligo. Biomedisch perspectief.
+
+Vitiligo is een verworven pigmentatiestoornis waarbij krijtwittte vlekken ontstaan door de selectieve vernietiging van melanocyten — de pigmentproducerende cellen in de buitenste huidlaag. De ziekte treft één à twee procent van de wereldbevolking en alle huidtypes, maar is het meest zichtbaar op een donkere huid.
+
+Het is een auto-immuunziekte. Het centrale mechanisme: melanocytspecifieke CD-acht-plus cytotoxische T-cellen herkennen eiwitten op het oppervlak van melanocyten en vernietigen deze. De werving en activering van deze T-cellen worden aangedreven door interferon-gamma via de JAK-STAT-signaleringsweg. Dit is precies waarom JAK-remmers een therapeutische doorbraak vormen bij vitiligo. Naast deze cellulaire aanval circuleren auto-antilichamen tegen melanocytantigenen, die bijdragen aan de schade via aanvullende mechanismen. Oxidatieve stress — een verhoogde waterstofperoxideconcentratie in de epidermis — beschadigt melanocyten en maakt ze zichtbaarder voor het immuunsysteem.
+
+Vitiligo gaat vaak samen met andere auto-immuunziekten: auto-immuunaandoeningen van de schildklier — Hashimoto en Graves — komen voor bij tot dertig procent van de patiënten. Ook diabetes mellitus type één en alopecia areata zijn geassocieerde aandoeningen.
+
+De behandeling is gericht op het stoppen van progressie en het stimuleren van hernieuwd pigment. Topicale corticosteroïden en tacrolimus zijn de eerstelijnsopties. Narrowband UVB-fototherapie driemaal per week stimuleert melanocytmigratie vanuit haarfollikels. Ruxolitinib, een topicale JAK-remmer, is recent goedgekeurd en toont significante repigmentatie. Volledig herstel is bij langdurige depigmentatie niet altijd mogelijk.

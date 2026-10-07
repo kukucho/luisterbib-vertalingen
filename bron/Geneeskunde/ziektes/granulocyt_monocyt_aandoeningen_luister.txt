@@ -1,0 +1,17 @@
+Aandoeningen van granulocyten en monocyten. Hoofdstuk negenenveertig van Cecil's Essentials of Medicine.
+
+Neutrofielen zijn de meest voorkomende granulocyten en vormen de primaire verdediging tegen bacteriën en schimmels. Wanneer ze een ziekteverwekker tegenkomen, migreren ze door de vaatwand via chemotaxis, slikken de organismen op via fagocytose en vernietigen ze door de oxidatieve uitbarsting — waarbij giftige reactieve zuurstofverbindingen worden gegenereerd via het NADPH-oxidase-enzym. Ze kunnen ook neutrofiele extracellulaire vallen uitwerpen, netwerken van DNA en antimicrobiële eiwitten die pathogenen vangen.
+
+Eosinofilie — een verhoogd eosinofielengehalte boven de vijfhonderd per microliter — wordt wereldwijd het vaakst veroorzaakt door parasitaire worminfecties. In westerse landen zijn allergische aandoeningen zoals astma en atopisch eczeem de meest frequente oorzaak. Geneesmiddelenreacties, eosinofiele longsyndromen en bepaalde maligniteiten zoals Hodgkin-lymfoom kunnen eveneens eosinofilie veroorzaken.
+
+Neutrofilie — een neutrofielenaantal boven de zevenenhalfduizend per microliter — is het vaakst het gevolg van bacteriële infectie. Corticosteroïden veroorzaken een kenmerkende neutrofilie door neutrofielen los te maken van de vaatwand. Bij chronische myeloïde leukemie kan een extreme neutrofilie optreden met een verschuiving naar links en karakteristieke basofilie en eosinofilie.
+
+Neutropenie — een neutrofielencount onder de vijftienhonderd per microliter — is klinisch significant vanwege het infectierisico. Onder de vijfhonderd per microliter is het risico ernstig, en onder de honderd per microliter is de situatie levensbedreigend. Veelvoorkomende oorzaken zijn cytotoxische chemotherapie, aplastische anemie, geneesmiddelenreacties van middelen zoals clozapine of carbimazol, vitamine B twaalf- of foliumzuurgebrek, en auto-immuunvernietiging van neutrofielen.
+
+Ernstige congenitale neutropenie, ook Kostmann-syndroom genaamd, wordt veroorzaakt door mutaties in het ELANE-gen en presenteert zich met zeer lage neutrofielencounts vanaf de geboorte. Cyclische neutropenie is een verwante aandoening waarbij de neutrofielencount periodiek daalt elke eenentwintig dagen, gedurende drie tot vijf dagen. Beide aandoeningen reageren op G-CSF.
+
+Febriele neutropenie — koorts bij een patiënt met een neutrofielencount onder de vijfhonderd per microliter — is een medische noodsituatie. Empirische breedspectrum-antibiotica moeten onmiddellijk worden gestart zonder te wachten op kweekresultaten, omdat het risico op snel progressieve bacteriële sepsis zeer hoog is.
+
+Felty-syndroom is de combinatie van langdurige reumatoïde artritis, splenomegalie en neutropenie. De vergrote milt sequestert en vernietigt neutrofielen prematuur.
+
+Monocytose is het kenmerk van chronische myelomonocytaire leukemie, een klonale aandoening die kenmerken van myelodysplasie en myeloproliferatie combineert. Het treedt ook op bij chronische infecties zoals tuberculose en subacute bacteriële endocarditis. Monocytopenie is klassiek geassocieerd met harige-celleukemie.

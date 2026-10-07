@@ -1,0 +1,13 @@
+Oncologie is de medische discipline die zich bezighoudt met de diagnose en behandeling van kanker. Kanker is een groep ziekten gekenmerkt door ongecontroleerde celgroei, invasie van aangrenzend weefsel en de capaciteit om te metastaseren naar verre organen. Sectie IX van Cecil's Essentials of Medicine omvat tien hoofdstukken die de biologische grondslagen van kanker verbinden met klinische praktijk per tumortype.
+
+De centrale principes van de moderne oncologie zijn gebaseerd op moleculaire diagnostiek, stagering en behandelmodaliteitkeuze. Elk kankertype wordt tegenwoordig gekarakteriseerd door moleculaire afwijkingen — stuurmutaties, amplificaties, fusies — die subtypes definiëren en de therapiekeuze sturen. NGS-paneltesting is bij veel tumortypen standaard geworden.
+
+TNM-stagering bepaalt de uitgebreidheid van de ziekte. Hoger stadium betekent meer verspreiding en slechtere prognose. Stagering bepaalt ook of de behandeling curatief of palliatief van intentie is.
+
+De behandelingsmodaliteiten zijn: chirurgie voor gelokaliseerde ziekte waarbij schildwachtklierbiopsie de morbiditeit minimaliseert; bestraling curatief of adjuvant in Gray gemeten; cytotoxische chemotherapie adjuvant of neoadjuvant; gerichte therapie gekoppeld aan moleculaire afwijkingen; immunotherapie met checkpoint-remmers gericht op PD-één, PD-L één en CTLA-vier; en endocriene therapie voor hormoonreceptorpositieve tumoren.
+
+Een aantal biomarkers is cruciaal voor de behandelkeuze: HER twee voor borstkanker en maagkanker — behandeld met trastuzumab; BRCA één en twee voor borst- en eierstokkanker — toegang tot PARP-remmers; EGFR en ALK voor longkanker — gerichte tyrosinekinaseremmers; BRAF V600E voor melanoom en andere tumoren — dabrafenib plus trametinib; MSI-hoog voor alle tumortypen — checkpoint-remmers; KIT en PDGFRA voor GIST — imatinib.
+
+De meest frequente ernstige complicaties van kanker zijn veneuze trombo-embolie bij circa vijftien procent van de patiënten, ruggenmergcompressie bij circa drie procent als oncologische noodsituatie die binnen vierentwintig uur behandeld moet worden, febriele neutropenie als gevolg van chemotherapie, en hypercalciëmie door maligniteit via overproductie van PTHrP.
+
+De sectie oncologie in Cecil verbindt met hematologie voor leukemieën en lymfomen, met nefrologie voor niercelcarcinoom, met longziekten voor longkankerstadiëring en maligne pleuravocht. De tag thema-kanker koppelt oncologie-atomen in deze bibliotheek aan toekomstige bronnen als Beerlandt en Hamer voor geïntegreerd Obsidian-zoeken.

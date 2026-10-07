@@ -1,0 +1,23 @@
+Systemische lupus erythematosus. Hoofdstuk éénentachtig van Cecil's Essentials of Medicine.
+
+Systemische lupus erythematosus is een chronische multisysteem auto-immuunziekte gekenmerkt door autoantilichaamproductie en immuuncomplexdepositie die kan leiden tot orgaanontstekingen en, onbehandeld, orgaanschade. De oorzaak is grotendeels onbekend. Klinische manifestaties zijn heterogeen, variërend van mildere niet-orgaanbedreigende symptomen zoals vermoeidheid of mondulcera tot levensbedreigende orgaanbetrokkenheid met nefritis en neurologische ziekte.
+
+De incidentie bedraagt vijf komma twee tot zeven komma vier gevallen per honderdduizend persoonsjaren. Vrouwen zijn sterk oververtegenwoordigd; tijdens de vruchtbare jaren is de vrouw-man verhouding tien tot vijftien staat tot één. De ziekte heeft een hogere incidentie en prevalentie bij niet-blanke bevolkingsgroepen, met de hoogste incidentie bij Afro-Amerikanen. De vijfjaarsoverleving bedroeg vijfenvijftig procent in negentienvijfenvijftig en is nu gerapporteerd als vijfennegentig procent.
+
+De oorzaak is waarschijnlijk multifactorieel. Er is een genetische predispositie met een hoge concordantie bij eeneiige tweelingen van meer dan twintig procent, en een lagere concordantie bij broers en zussen van minder dan vijf procent. Sleutelgenen zijn HLA-antigenen, complementcomponenten en immunoglobulinereceptoren. Omgevingstriggers zijn micro-organismen, ultraviolet licht en hormonen. De ziekte berust op dysregulatie van humorale en cellulaire immuunsystemen, verlies van zelftolerantie, en productie van autoantilichamen en immuuncomplexen.
+
+SLE kan vrijwel elk orgaansysteem aantasten. Patiënten ervaren wisselende perioden van verhoogde ziekteactiviteit, die opstoten worden genoemd, afwisselend met perioden van klinische rust.
+
+De constitutionele symptomen zijn koorts, lymfadenopathie, gewichtsverlies, malaise en vermoeidheid. De meest herkenbare huidmanifestatie is de vlinderuitslag: een vaste, vlakke of verheven erytheem over de wangbeenderen die de neusplooien spaart. Mondulcera komen voor bij circa vijfenveertig procent van de patiënten. Andere huidmanifestaties zijn fotosensitiviteit, niet-littekenavende alopecia en livedo reticularis.
+
+Musculoskeletale manifestaties omvatten een niet-erosieve artritis en Jaccoud-artropathie, waarbij gewrichtsdeformiteiten aanwezig zijn maar reduceerbaar blijven. Cardiopulmonale manifestaties zijn pericarditis, Libman-Sacks endocarditis met valvulaire verruceuze laesies, pleuritis en pleurale effusie.
+
+Nefritis met hematurie en proteïnurie is een belangrijke oorzaak van morbiditeit en sterfte. De internationale classificatie onderscheidt zes klassen lupusnefritis. Diffuse lupusnefritis, klasse vier, is de meest voorkomende en heeft de slechtste prognose.
+
+Neuropsychiatrische manifestaties omvatten cognitieve disfunctie, acute verwardheid, hoofdpijn, aseptische meningitis, myelopathie, bewegingsstoornissen, demyeliniserende syndromen, insulten en psychose. Hematologisch zijn leukopenie, lymfopenie, anemie en trombocytopenie kenmerkend. Raynaud-fenomeen treedt op bij meer dan veertig procent van de patiënten.
+
+De diagnose wordt gesteld op basis van klinische en immunologische criteria. De antinucleaire antilichaamtest is positief bij meer dan vijfennegentig procent van de patiënten maar is niet specifiek. Anti-dubbelstrengs DNA heeft hoge specificiteit en wordt gebruikt om de ziekteactiviteit te bewaken. Anti-Smith is hoog specifiek voor SLE. Complementspiegels van C3, C4 en CH50 worden gebruikt om ziekteactiviteit te bewaken.
+
+Er is geen bekende genezing. Behandeling richt zich op onderliggende orgaanmanifestaties. Hydroxychloroquine is de hoeksteen van de SLE-behandeling; het is geïndiceerd voor alle patiënten en voorkomt opstoten en orgaanschade. Glucocorticoïden zijn snelwerkend en worden gebruikt als overbruggingstherapie en bij orgaanbedreigende ziekte. Azathioprine wordt toegepast bij huid-, musculoskeletale en renale manifestaties en is veilig in de zwangerschap. Mycofenolaatmofetil is effectief bij lupusnefritis. Cyclofosfamide wordt ingezet bij orgaan- of levensbedreigende SLE. Belimumab, een biologisch geneesmiddel dat de B-lymfocyt stimulator remt, is door de FDA goedgekeurd voor SLE.
+
+De prognose is sterk verbeterd; de vijfjaarsoverleving bedraagt nu circa vijfennegentig procent. SLE-patiënten hebben echter vijf tot tien keer meer kans op een coronaire gebeurtenis. Premenopauzale vrouwen van vijfendertig tot vierenveertig jaar hebben een vijftig keer hoger risico op een hartinfarct. Er is een viervoudig verhoogd risico op non-Hodgkin lymfoom. Vermoeidheid treft tot tachtig procent van de patiënten.
