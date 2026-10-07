@@ -169,6 +169,7 @@ Gangbare Italiaanse GNM-terminologie (Nuova Medicina Germanica). Aanspreking: on
 - brokconflict / morsel-conflict → conflitto del boccone; scheidingsconflict → conflitto di separazione; zelfdevaluatieconflict → conflitto di svalutazione di sé; geslachtsidentiteitsconflict → conflitto di identità sessuale; territoriumconflict → conflitto territoriale; hulpeloosheidsconflict → conflitto di impotenza; prestatieconflict → conflitto di prestazione; doodsangstconflict → conflitto di paura della morte; territoriumangstconflict → conflitto di paura nel territorio; hongerconflict → conflitto di fame; overlevingsconflict → conflitto di sopravvivenza; identiteitsconflict → conflitto di identità; vloeistofconflict → conflitto dei liquidi; vaatconflict → conflitto vascolare
 - binario (spoor/track); PCL-assistent → assistente della PCL; cel-aanmaak / cel-afname → formazione / perdita di cellule
 - hersenstam → tronco encefalico; bijnierschors / bijniermerg → corticale / midollare del surrene; long-COVID → long COVID; COVID negentien → COVID-diciannove; knokkelkoorts → febbre rompiossa (dengue)
+- vluchtelingconflict (verzamelbuisjes-nier, Hamer's Flüchtlingskonflikt) → conflitto del profugo (NIET «di fuga», dat is vluchtconflict; niet «rifugiato»)
 - (nieuwe termen onderaan toevoegen)
 
 ## Geneeskunde
