@@ -1,3 +1,10 @@
 {
-  "it": {"klaar": 95, "afgekeurd": [], "onderdelen": {"Hellinger": 95}}
+  "it": {
+    "klaar": 458,
+    "afgekeurd": [],
+    "onderdelen": {
+      "Hellinger": 95,
+      "Beerlandt": 363
+    }
+  }
 }
