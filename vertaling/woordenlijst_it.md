@@ -117,6 +117,16 @@ Tu-vorm (jij). Elke ziektenaam: officiële Italiaanse medische term (zoals een a
 - bewust(zijn) → consapevole / consapevolezza
 - de ziekte als boodschap → la malattia come messaggio
 - ego → ego
+- kernboodschap / De kernboodschap → messaggio essenziale / Il messaggio essenziale (altijd «essenziale», niet «centrale»)
+- titelvorm «Beerlandt: Psychologische kernoorsprong en weg naar genezing» → «Beerlandt: origine essenziale psicologica e cammino verso la guarigione»
+- titelvorm «Psychologische betekenis en kernboodschap» → «significato psicologico e messaggio essenziale»
+- boektitel in tekst: Beerlandt, De sleutel tot zelfbevrijding (originele titel; zonder guillemets)
+- Ik / Zelf (Beerlandt, hoofdletter) → Io / Sé; ik-centrum / kern-ik → centro dell'Io / io essenziale
+- aarding → radicamento; zelfwording → divenire se stessi; zelfaanvaarding → accettazione di sé; zelfverwerkelijking → realizzazione di sé
+- machteloosheid → impotenza; boetedoening → espiazione
+- oerkrachten / oerenergieën → forze originarie / energie primordiali; oertrauma → trauma primario
+- ziektenamen: gebruik de gangbare artsenterm (emorroidi, afte, ascesso, cancro/tumore, ecc.); herpes zoster → herpes zoster (fuoco di Sant'Antonio); leukemie → leucemia
+- Covid-negentien → Covid-diciannove
 - (Per ziekte/klacht: officiële Italiaanse term; bv. aambeien → emorroidi, aften → afte, acute astma → asma acuta, hartafwijking → cardiopatia congenita, ADD/ADHD → ADD/ADHD (disturbo da deficit di attenzione e iperattività))
 
 ## GermanseGeneeskunde
