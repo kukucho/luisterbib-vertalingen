@@ -165,6 +165,10 @@ Gangbare Italiaanse GNM-terminologie (Nuova Medicina Germanica). Aanspreking: on
 - schrikconflict → conflitto di spavento
 - afschuwconflict / walgingconflict → conflitto di disgusto (conflitto di ribrezzo)
 - (reguliere geneeskunde → medicina convenzionale; schoolgeneeskunde → medicina ufficiale)
+- BESLISSINGEN (GNM, verplicht): EP-crisis / epileptoïde crisis → crisi epilettoide (nooit «crisi EP»); PCL-EPCrise → crisi epilettoide nella PCL; aanvalsconflict → conflitto di attacco; CA-fase → fase CA; PCL-fase → fase PCL; titelsuffix «GNM-perspectief» → «prospettiva della GNM»; Syndroom (GNM) → Sindrome; Noot → Nota; Kiemlaag (kopregel) → Foglietto embrionale
+- brokconflict / morsel-conflict → conflitto del boccone; scheidingsconflict → conflitto di separazione; zelfdevaluatieconflict → conflitto di svalutazione di sé; geslachtsidentiteitsconflict → conflitto di identità sessuale; territoriumconflict → conflitto territoriale; hulpeloosheidsconflict → conflitto di impotenza; prestatieconflict → conflitto di prestazione; doodsangstconflict → conflitto di paura della morte; territoriumangstconflict → conflitto di paura nel territorio; hongerconflict → conflitto di fame; overlevingsconflict → conflitto di sopravvivenza; identiteitsconflict → conflitto di identità; vloeistofconflict → conflitto dei liquidi; vaatconflict → conflitto vascolare
+- binario (spoor/track); PCL-assistent → assistente della PCL; cel-aanmaak / cel-afname → formazione / perdita di cellule
+- hersenstam → tronco encefalico; bijnierschors / bijniermerg → corticale / midollare del surrene; long-COVID → long COVID; COVID negentien → COVID-diciannove; knokkelkoorts → febbre rompiossa (dengue)
 - (nieuwe termen onderaan toevoegen)
 
 ## Geneeskunde
