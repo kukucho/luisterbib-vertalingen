@@ -57,6 +57,38 @@ Vaste termen; gebruik consequent. Per onderdeel een sectie, uit te breiden (nieu
 - vierluik-protocol → protocollo in quattro pannelli
 - ik volg je → ti seguo
 - Bert Hellinger → Bert Hellinger (niet vertalen)
+- familiegeweten → coscienza della famiglia
+- herinsluiting → reinclusione
+- aanmatiging → presunzione
+- nazaat / nakomeling → discendente
+- hechtingsvermogen → capacità di attaccamento
+- ziel van het systeem → anima del sistema
+- lotsverbondenheid → legame di destino
+- eerbied → rispetto; eren → onorare
+- heelzin-aanhef «Een heelzin van Bert Hellinger» → «Una frase risolutiva di Bert Hellinger»
+- eerherstel → riabilitazione
+- boete / vicariërende boetedoening → espiazione / espiazione vicaria
+- eerste/tweede ordening → primo/secondo ordine
+- helende zin → frase risolutiva
+- zuiging → risucchio
+- onbetreurde dode → morto non pianto
+- mede-ouder → co-genitore
+- weggesaneerd (organisatie) → allontanato con un taglio
+- plaatsvervangend dragen → portare al posto di un altro
+- reikbeweging → movimento verso l'altro (zie onderbroken reikbeweging)
+- compensatie → compensazione
+- partnerlaag / ouder-kindlaag → livello di coppia / livello genitore-figlio
+- representantenwaarneming → percezione del rappresentante
+- fenomenologisch luisteren → ascolto fenomenologico
+- vloerankers → ancoraggi sul pavimento; voetjes (tafelopstelling) → piedini
+- evenwicht / balans (los) → equilibrio
+- representatie → rappresentanza
+- Schicksal / Demut → bij eerste vermelding Duits behouden, daarna destino / umiltà
+- primair / secundair gevoel → sentimento primario / secondario
+- onvruchtbaarheid → infertilità; kinderwens → desiderio di un figlio
+- lichte schuld → lieve colpa
+- opstellingswerk → lavoro con le costellazioni
+- aanspreking jij → tu
 - kiemlaag etc. → zie sectie GermanseGeneeskunde (nog aan te vullen)
 
 ## Beerlandt
