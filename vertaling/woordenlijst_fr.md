@@ -97,7 +97,46 @@ Tu-vorm (jij). Titelregel volgt de bron; ziektenaam: officiële Franse medische 
 - nieuwe termen onderaan toevoegen
 
 ## GermanseGeneeskunde
-(nog aan te vullen)
+Gangbare Franse GNM-terminologie (Nouvelle Médecine Germanique). Aanspreking: onpersoonlijk/neutraal, zoals de bron.
+- Germaanse Nieuwe Geneeskunde (GNM) → Nouvelle Médecine Germanique (NMG); vanuit de GNM → du point de vue de la Nouvelle Médecine Germanique
+- Dr. Ryke Geerd Hamer, Dirk Hamer → niet vertalen
+- SBS (Zinvol Biologisch Speciaalprogramma) → SBS, Programme Spécial Biologique doté de Sens; biologisch (speciaal)programma → programme biologique (spécial)
+- DHS (Dirk Hamer Syndroom) → DHS, Syndrome de Dirk Hamer
+- conflictschok → choc conflictuel; biologisch conflict → conflit biologique; conflict → conflit
+- conflictactieve fase / conflictactiviteit → phase active du conflit / activité du conflit
+- conflictoplossing → solution du conflit; oplossingsfase / genezingsfase → phase de solution (phase de guérison)
+- PCL-A / PCL-B → PCL-A / PCL-B (sigle gardé); PCL-fase → phase PCL; CA-fase → phase CA
+- epileptoïde crisis → crise épileptoïde (nooit «crise EP»); PCL-EPCrise → crise épileptoïde dans la PCL
+- conflictinhoud / conflictthema → contenu du conflit / thème du conflit; conflictrecidief → récidive du conflit; spoor/track → piste (track)
+- Hamerse haard (HH) → foyer de Hamer (FH)
+- kiemlaag → feuillet embryonnaire; endoderm → endoderme; mesoderm → mésoderme; ectoderm → ectoderme; oud/nieuw mesoderm → mésoderme ancien / mésoderme nouveau
+- sympathicotonie → sympathicotonie; vagotonie → vagotonie; tweefasigheid → biphasisme
+- IJzeren Wet van Kanker → Loi d'Airain du Cancer
+- Eerste…Vijfde Biologische Wet → Première / Deuxième / Troisième / Quatrième / Cinquième Loi Biologique; Kwintessens → Quintessence
+- ontogenetisch systeem van tumoren/microben → système ontogénétique des tumeurs / des microbes
+- biologische resonantie → résonance biologique; hersenrelais → relais cérébral; hersenschors → cortex cérébral; hersenstam → tronc cérébral
+- lateraliteit → latéralité; rechtshandig/linkshandig → droitier / gaucher
+- aanvalsconflict → conflit d'attaque; territoriumconflict → conflit territorial; zelfwaardeverlies-/zelfdevaluatieconflict → conflit de dévalorisation de soi; verliesconflict → conflit de perte; vluchtconflict → conflit de fuite; schrikconflict → conflit de frayeur; afschuw-/walgingconflict → conflit de dégoût; brokconflict → conflit du morceau; scheidingsconflict → conflit de séparation; geslachtsidentiteitsconflict → conflit d'identité sexuelle; hulpeloosheidsconflict → conflit d'impuissance; prestatieconflict → conflit de performance; doodsangstconflict → conflit de peur de la mort; territoriumangstconflict → conflit de peur dans le territoire; hongerconflict → conflit de faim; overlevingsconflict → conflit de survie; identiteitsconflict → conflit d'identité; vloeistofconflict → conflit des liquides; vaatconflict → conflit vasculaire
+- vluchtelingconflict → conflit du réfugié (Flüchtlingskonflikt; NIET «de fuite»)
+- reguliere geneeskunde → médecine conventionnelle; schoolgeneeskunde → médecine officielle
+- bijnierschors / bijniermerg → cortex / médullaire de la surrénale; cel-aanmaak / cel-afname → formation / perte de cellules; PCL-assistent → assistant de la PCL
+- long-COVID → Covid long; COVID negentien → Covid-dix-neuf; knokkelkoorts → dengue («fièvre rompe-os»)
+- titelsuffix «GNM-perspectief» → «perspective de la NMG»; Syndroom → Syndrome; Noot → Note; Kiemlaag (kopregel) → Feuillet embryonnaire
+- ondertekening «— Hamer-analist» → «— analyste Hamer»
+- cijfers in codes spiegelen de bron (voluit in bron → voluit, cijfers in bron → cijfers laten)
+- (nieuwe termen onderaan toevoegen)
 
 ## Geneeskunde
-(nog aan te vullen)
+Biomedisch-neutraal register (Cecil Essentials of Medicine-stijl); geen persoonlijke aanspreking. Altijd de officiële Franse medische term (zoals een arts hem zegt); eponiemen: «maladie de X», «syndrome de X». Gangbare afkortingen mogen blijven (VIH, BPCO, SDRA, TDM, IRM); Franse varianten kiezen waar standaard (HIV→VIH, COPD→BPCO, ARDS→SDRA).
+- «Cecil's Essentials of Medicine» → titel behouden
+- Sectie N … Hoofdstukken X tot en met Y → Section N … Chapitres X à Y (getallen voluit)
+- «biomedische contextnotitie als aanvulling op de Beerlandt-bibliotheek» → «note de contexte biomédicale en complément de la bibliothèque Beerlandt»
+- Op biomedisch vlak → Sur le plan biomédical; Wat betreft de oorzaken → En ce qui concerne les causes; Klinisch gezien → Sur le plan clinique
+- kopjes in lopende tekst: oorzaken → causes; symptomen → symptômes; diagnose → diagnostic; behandeling → traitement
+- ziektebeeld → tableau clinique; risicofactor → facteur de risque; pathofysiologie → physiopathologie; prognose → pronostic; poliklinisch → ambulatoire
+- aambeien → hémorroïdes; beenmerg → moelle osseuse; bloedvergiftiging → septicémie / sepsis; gordelroos → zona; leukemie → leucémie; hooikoorts → rhume des foins; beroerte → accident vasculaire cérébral (AVC); hartritmestoornis → arythmie cardiaque
+- bijnierschors/-merg → cortex / médullaire de la surrénale
+- ondertekening «— Med-analist» → «— analyste Med»; «In relatie tot Beerlandt» → «En relation avec Beerlandt»
+- getallen in afkortingen: spiegel de bron (zie GNM); gewone getallen altijd voluit
+- Personen (biografieën): namen niet vertalen; jaartallen/leeftijden voluit; plaatsnamen in het Frans (Allemagne, Vienne, Zurich…); werktitels: officiële Franse titel indien bestaand, anders origineel.
+- nieuwe termen onderaan toevoegen
