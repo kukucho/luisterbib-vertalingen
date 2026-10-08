@@ -1,0 +1,9 @@
+Dermatite da contatto. Prospettiva biomedica.
+
+La dermatite da contatto è un'infiammazione della pelle causata dal contatto diretto con una sostanza esterna. Esistono due forme fondamentalmente diverse: la dermatite allergica da contatto e la dermatite irritativa da contatto.
+
+La dermatite allergica da contatto si basa su una reazione di ipersensibilità di tipo quattro — l'ipersensibilità ritardata, mediata dai linfociti T. Si svolge in due fasi. Nella fase di sensibilizzazione, una piccola molecola chimica — un aptene — penetra la barriera cutanea, si lega a una proteina dell'organismo e viene captata dalle cellule di Langerhans nell'epidermide. Queste presentano l'aptene ai linfociti T nei linfonodi, determinando l'espansione clonale di linfociti T di memoria specifici per l'aptene. Solo a un nuovo contatto con lo stesso aptene — la fase di elicitazione — questa memoria immunitaria attiva un'infiammazione locale, che diventa visibile da dodici a settantadue ore dopo il contatto. Gli allergeni più comuni sono il nichel presente in gioielli e fibbie, le sostanze profumate, gli additivi della gomma e i conservanti cosmetici. La diagnosi si effettua con il patch test epicutaneo, in cui una serie di allergeni standardizzati viene applicata sulla schiena per quarantotto ore.
+
+La dermatite irritativa da contatto ha un decorso diverso: non è coinvolta alcuna memoria immunitaria. Acidi, basi, solventi e il contatto prolungato con l'acqua danneggiano direttamente la barriera cutanea. Chiunque può svilupparla con un'esposizione sufficiente.
+
+Il trattamento della dermatite allergica da contatto inizia con l'identificazione e l'evitamento dell'allergene — questa è l'unica misura causale. Inoltre si usano corticosteroidi topici per l'infiammazione ed emollienti per il ripristino della barriera. Nelle reazioni gravi e generalizzate sono indicati corticosteroidi sistemici per un breve periodo.
