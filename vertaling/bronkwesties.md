@@ -16,6 +16,11 @@ Plekken waar de Nederlandse bron zelf onduidelijk, fout of medisch/historisch af
 - Geneeskunde/ziektes/infecties_immuungecompromitteerd: «Een sterk gemotiveerde bacteriële infectie» (waarschijnlijk «zeer virulent»); vertaald als «molto aggressiva».
 - Geneeskunde/ziektes/hyperventilatie: «respiratoire alkalose met een toename van de zuurgraad van het bloed». Vertaling volgt de bron.
 
+- Geneeskunde/ziektes/vocht_elektrolyt_stoornissen: hypokaliëmie «kalium lekt uit witte cellen in het buisje» (gangbaar: opname door de cellen); hyperkaliëmie «niet hypo- maar hyperpolarisatie» (waarschijnlijk omgekeerd: depolarisatie); glucose-natriumcorrectie «anderhalve milliequivalent per honderd mg/dl» (gangbaar 1,6 of 2,4). Vertaling volgt de bron.
+- Geneeskunde/ziektes/stralingsziekte: drempels «zes tot tien gray» en later «boven zeven tot tien gray» (inconsistent). Vertaling volgt de bron.
+- Geneeskunde/ziektes/systemische_vasculitis: eosinofilie «per milliliter» (normaal per microliter). Vertaling volgt de bron.
+- Geneeskunde/ziektes/roodvonk: «tweeëntwintig uur na start antibiotica» (gebruikelijk vierentwintig). Vertaling volgt de bron.
+
 ## Onduidelijke/foutieve bronzinnen
 - Geneeskunde/ziektes/gastro_intestinale_bloeding (concepten): eigen Italiaanse varianten van de ezelsbruggetjes PRET/CAMPER (→ PRVT/CAFPER); inhoud en volgorde zijn identiek.
 - GermanseGeneeskunde/sbs/sbs_mazelen: «hoest (Duits is drieen)» – corrupte zin. Vertaald letterlijk; graag corrigeren of schrappen.
