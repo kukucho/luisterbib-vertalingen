@@ -1,0 +1,37 @@
+Soins palliatifs. Chapitre cent vingt-sept de Cecil's Essentials of Medicine, Section dix-huit : Soins palliatifs.
+
+Les soins palliatifs sont à la fois une philosophie de soins et une spécialité. Leur objectif principal est de minimiser la souffrance et de soutenir la meilleure qualité de vie possible pour les patients et leurs proches. Les soins palliatifs affirment la vie en soutenant les objectifs des patients : leur espoir de guérison, de prolongation de la vie, de soulagement de la souffrance, et de préparation à la mort lorsque le temps est court.
+
+Une idée reçue courante est que les soins palliatifs équivalent aux soins de fin de vie. Cela est inexact. Plusieurs essais contrôlés randomisés montrent que l'intégration précoce des soins palliatifs améliore la qualité de vie, réduit la dépression et l'anxiété, et augmente la satisfaction des patients et des aidants. Deux études ont également rapporté une survie plus longue en cas d'intégration précoce.
+
+Il existe quatre trajectoires distinctes de la maladie. Le cancer est le prototype de la première : la fonction reste préservée jusqu'à tard, puis décline de façon prévisible et rapide sur plusieurs semaines à plusieurs mois. La deuxième trajectoire, maladie chronique avec exacerbations et mort subite, comprend l'insuffisance cardiaque, la BPCO, l'insuffisance hépatique au stade terminal et le SIDA. Les patients connaissent des exacerbations répétées, se rétablissent partiellement, et peuvent mourir subitement lors d'une exacerbation. La troisième trajectoire, le déclin lent, comprend la démence et la fragilité, avec un déclin physique et cognitif de longue durée. La quatrième trajectoire, lésion cérébrale aiguë grave, comprend l'AVC, l'encéphalopathie hypoxo-ischémique et le traumatisme crânien, la plupart des décès survenant tôt lorsque les traitements sont arrêtés.
+
+La douleur non contrôlée domine toutes les autres expériences, et la plupart des douleurs peuvent être soulagées par des stratégies de base de gestion de la douleur. L'approche en trois paliers commence par les non-opioïdes, paracétamol et AINS, pour les douleurs légères. Les douleurs légères à modérées sont traitées par des opioïdes faibles tels que l'hydrocodone ou la codéine. Les douleurs modérées à sévères nécessitent des opioïdes forts tels que la morphine, l'hydromorphone, le fentanyl ou la méthadone.
+
+Pour les douleurs chroniques modérées à sévères, on commence par une administration régulière, à heures fixes, de jour comme de nuit, avec un opioïde à action brève. Une fois la dose quotidienne totale établie, on passe à un opioïde à action prolongée. Les opioïdes pour douleurs paroxystiques représentent environ dix pour cent de la dose quotidienne totale, administrés toutes les une à deux heures par voie orale, ou toutes les trente à soixante minutes par voie sous-cutanée ou intraveineuse. Au-delà de quatre à six doses de secours par jour, une réévaluation est nécessaire.
+
+La constipation survient avec tous les opioïdes et doit être anticipée et traitée dès le début. La dépression respiratoire avec des opioïdes correctement dosés est rare ; les opioïdes peuvent au contraire soulager la dyspnée dans l'insuffisance cardiaque, la BPCO et le cancer du poumon.
+
+La dyspnée est un symptôme fréquent en fin de vie. Les opioïdes sont les médicaments de première intention pour le traitement symptomatique. L'anxiété et la dyspnée s'entretiennent mutuellement : on traite d'abord la dyspnée par des opioïdes et l'on ajoute une benzodiazépine si l'anxiété persiste.
+
+Les nausées et vomissements surviennent chez jusqu'à soixante-dix-huit pour cent des patients atteints d'un cancer avancé. Il faut évaluer les causes intra-abdominales et extra-abdominales. L'halopéridol est l'un des antiémétiques les plus utiles. Il faut instaurer un traitement anti-constipation dès le début de l'administration d'opioïdes pour prévenir la constipation.
+
+La dépression est plus persistante que la tristesse normale et se caractérise par le désespoir, l'impuissance et la culpabilité. Les patients en phase terminale souffrant de dépression présentent un risque accru d'idéation suicidaire.
+
+Près de quatre-vingts pour cent du delirium en soins palliatifs est hypoactif. Le traitement se concentre sur les interventions environnementales : rassurer calmement, réorienter doucement et optimiser les apports sensoriels.
+
+La souffrance spirituelle et existentielle est fréquente chez les patients gravement malades et leurs proches. Des questions ouvertes telles que « Êtes-vous en paix avec tout cela ? » et « La foi est-elle importante pour vous ? » facilitent le dialogue. La reconnaissance et l'écoute empathique sont les réponses les plus appropriées.
+
+Lors de la négociation des objectifs de soins : préparer le cadre sans ordre du jour fixe, demander ce que le patient et ses proches savent déjà, leur laisser suffisamment de temps pour raconter leur histoire, établir combien ils veulent savoir, donner l'information par petites doses et vérifier régulièrement la compréhension, réagir avec empathie aux émotions, utiliser des formulations « Je souhaite », résumer et établir un plan.
+
+Les médecins surestiment la survie dans le cancer avancé d'environ trente pour cent. Les prédicteurs fréquents de survie à court terme sont un mauvais état fonctionnel, le syndrome anorexie-cachexie, le delirium et la dyspnée. Les estimations doivent être présentées avec des fourchettes.
+
+Le Medicare Hospice Benefit exige que deux médecins certifient un pronostic de six mois ou moins. Il couvre les médicaments palliatifs, la supervision infirmière, le matériel, l'accompagnement du deuil et jusqu'à deux à quatre heures de soutien aux aidants par jour. À partir de deux mille dix-sept, la maladie d'Alzheimer est le diagnostic principal le plus fréquent chez les patients en hospice.
+
+Dans les dernières heures et les derniers jours : faiblesse et fatigue progressives, diminution de l'alimentation et de l'hydratation, baisse de la conscience, modifications du rythme respiratoire, y compris des pauses d'apnée et une respiration de Cheyne-Stokes, refroidissement et cyanose des extrémités. La plupart des patients ne ressentent ni faim ni soif. Une respiration bruyante peut être soulagée par la scopolamine, le glycopyrronium ou l'hyoscyamine.
+
+Les sondes d'alimentation n'ont pas prolongé la durée de vie dans la plupart des maladies avancées, à l'exception du cancer de l'œsophage, du cancer oropharyngé, de la SLA et de l'AVC aigu. Une période d'essai d'un mois avec une sonde gastrique peut aider les patients et leurs proches à évaluer la nutrition par sonde.
+
+La sédation palliative proportionnelle utilise une sédation progressivement croissante pour soulager les symptômes physiques ingérables en fin de vie. Le but est de soulager la souffrance, et non d'accélérer la mort.
+
+Les soins palliatifs sont devenus une sous-spécialité officiellement reconnue aux États-Unis en deux mille six. À mesure que les patients vivent plus longtemps avec une maladie chronique, le besoin d'intégrer pleinement les soins palliatifs dans tous les contextes de soins ne fera que croître.
