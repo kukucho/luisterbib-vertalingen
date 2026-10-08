@@ -1,0 +1,11 @@
+TOC. Trouble obsessionnel compulsif. Perspective biomédicale.
+
+Le TOC se caractérise par des obsessions et des compulsions qui occupent ensemble plus d'une heure par jour. Les obsessions sont des pensées, des images ou des impulsions intrusives et indésirables qui suscitent de l'angoisse ou du dégoût. Les compulsions sont des actes répétés — mentaux ou comportementaux — que le patient accomplit pour neutraliser l'angoisse. Une caractéristique essentielle est que les obsessions sont ego-dystoniques : la personne les vit comme étrangères et indésirables, en décalage avec sa propre image d'elle-même.
+
+Sur le plan neurobiologique, la boucle cortico-striato-thalamo-corticale constitue le substrat central. Une hyperactivité de cette boucle — en particulier dans le cortex orbitofrontal et le noyau caudé — produit un signal persistant de « danger » ou de « quelque chose ne va pas » qui ne peut être suffisamment interrompu. Un dysfonctionnement sérotoninergique joue un rôle, ce qui s'explique par l'efficacité spécifique des fortes doses d'ISRS.
+
+Les groupes de symptômes les plus fréquents sont les compulsions de contamination et de nettoyage, les compulsions de symétrie et d'ordre, les pensées agressives ou interdites, et les compulsions de contrôle. L'évolution est chronique ; le délai entre le début des troubles et un premier traitement est en moyenne de neuf à treize ans.
+
+La référence en psychothérapie est l'exposition avec prévention de la réponse : le patient est exposé au déclencheur tandis que la compulsion est empêchée. Cela permet au circuit CSTC d'apprendre que le signal de danger est erroné. Sur le plan pharmacologique, les ISRS sont administrés à fortes doses — fluvoxamine, fluoxétine, sertraline ou paroxétine. En cas de non-réponse, on prescrit la clomipramine. Pour le TOC résistant au traitement, la stimulation cérébrale profonde est une option invasive.
+
+Là où Cecil désigne le dysfonctionnement de la boucle comme substrat neural de signaux d'alarme qui ne peuvent être interrompus, Beerlandt décrit la répression de ses propres sentiments naturels comme le terreau de la réaction compulsive contraire. Les deux lectures ensemble montrent comment le combat contre le moi intérieur se traduit en une prison neurologique de répétition.
