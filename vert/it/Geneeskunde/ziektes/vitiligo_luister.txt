@@ -1,0 +1,9 @@
+Vitiligine. Prospettiva biomedica.
+
+La vitiligine è un disturbo acquisito della pigmentazione in cui compaiono macchie bianco gesso per la distruzione selettiva dei melanociti — le cellule che producono il pigmento nello strato più esterno della pelle. La malattia colpisce l'uno-due per cento della popolazione mondiale e tutti i tipi di pelle, ma è più visibile sulla pelle scura.
+
+È una malattia autoimmune. Il meccanismo centrale: linfociti T citotossici CD otto positivi, specifici per i melanociti, riconoscono proteine sulla superficie dei melanociti e le distruggono. Il reclutamento e l'attivazione di questi linfociti T sono guidati dall'interferone gamma attraverso la via di segnalazione JAK-STAT. Questo è esattamente il motivo per cui gli inibitori di JAK rappresentano una svolta terapeutica nella vitiligine. Oltre a questo attacco cellulare circolano autoanticorpi contro gli antigeni dei melanociti, che contribuiscono al danno attraverso meccanismi aggiuntivi. Lo stress ossidativo — una concentrazione elevata di perossido di idrogeno nell'epidermide — danneggia i melanociti e li rende più visibili al sistema immunitario.
+
+La vitiligine si accompagna spesso ad altre malattie autoimmuni: le malattie autoimmuni della tiroide — Hashimoto e Graves — si riscontrano fino al trenta per cento dei pazienti. Anche il diabete mellito di tipo uno e l'alopecia areata sono condizioni associate.
+
+Il trattamento è mirato ad arrestare la progressione e a stimolare la ripigmentazione. I corticosteroidi topici e il tacrolimus sono le opzioni di prima linea. La fototerapia UVB a banda stretta tre volte alla settimana stimola la migrazione dei melanociti dai follicoli piliferi. Il ruxolitinib, un inibitore di JAK topico, è stato approvato di recente e mostra una ripigmentazione significativa. Una guarigione completa non è sempre possibile in caso di depigmentazione di lunga durata.
