@@ -125,6 +125,7 @@ Gangbare Franse GNM-terminologie (Nouvelle Médecine Germanique). Aanspreking: o
 - ondertekening «— Hamer-analist» → «— analyste Hamer»
 - cijfers in codes spiegelen de bron (voluit in bron → voluit, cijfers in bron → cijfers laten)
 - nest-zorgconflict / nestzorgconflict → conflit de souci du nid (Nestsorge-Konflikt; niet «conflit de nid et de soin»)
+- geslachtsconflict → conflit sexuel; zelfwaardeconflict → conflit de dévalorisation de soi; eigenwaarde-inbreuk → atteinte à l'estime de soi; PTSS → TSPT; NSAID's → AINS; parasympathicotonie → parasympathicotonie; hangende heling → guérison suspendue; groene staar → cataracte verte; colitis ulcerosa → rectocolite hémorragique
 - BPPV → VPPB (vertige paroxystique positionnel bénin)
 - (nieuwe termen onderaan toevoegen)
 
