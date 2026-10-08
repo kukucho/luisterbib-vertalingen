@@ -1,0 +1,9 @@
+Zona. Perspective biomédicale.
+
+Le zona, en latin herpes zoster, est la réactivation du virus varicelle-zona, le même virus qui provoque la varicelle pendant l'enfance. Après l'infection primaire, le virus remonte le long des voies nerveuses sensitives jusqu'aux ganglions rachidiens dorsaux, les nœuds nerveux situés près de la moelle épinière, où il reste à l'état latent toute la vie.
+
+La réactivation survient lorsque l'immunité cellulaire diminue. Cela se produit avec l'avancée en âge, lorsque le système immunitaire perd progressivement son efficacité, mais aussi lors d'une immunosuppression médicamenteuse, d'un cancer du sang, d'une infection par le VIH ou d'un stress physique ou psychique intense. Le virus reprend sa multiplication dans le ganglion, provoque une nécrose locale et une douleur, puis se propage le long du nerf sensitif jusqu'à la bande cutanée correspondante, le dermatome. Les zones les plus touchées sont les dermatomes thoraciques, la ceinture typique autour du tronc, et le premier territoire du trijumeau autour de l'œil.
+
+L'évolution clinique comporte trois phases. D'abord la phase prodromique : une douleur brûlante ou lancinante dans le dermatome concerné, parfois accompagnée de fièvre, deux à quatre jours avant l'apparition de l'éruption visible. Puis la phase éruptive : des groupes de vésicules sur une base rouge, qui sèchent et forment des croûtes. Enfin la phase de guérison, généralement de deux à quatre semaines. La complication redoutée est la névralgie postherpétique : une douleur neuropathique persistante après la guérison de l'éruption, chez dix à quinze pour cent des patients, plus fréquente chez les personnes âgées.
+
+Le traitement repose sur des antiviraux, aciclovir ou valaciclovir, débutés dans les soixante-douze heures suivant l'éruption. La vaccination par Shingrix est recommandée à toute personne âgée de cinquante ans et plus et protège à plus de quatre-vingt-dix pour cent.

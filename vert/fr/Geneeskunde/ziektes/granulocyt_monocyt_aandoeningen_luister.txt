@@ -1,0 +1,17 @@
+Affections des granulocytes et des monocytes. Chapitre quarante-neuf de Cecil's Essentials of Medicine.
+
+Les neutrophiles sont les granulocytes les plus fréquents et constituent la première ligne de défense contre les bactéries et les champignons. Lorsqu'ils rencontrent un agent pathogène, ils migrent à travers la paroi vasculaire par chimiotactisme, ingèrent les organismes par phagocytose et les détruisent par le sursaut oxydatif, au cours duquel des composés réactifs de l'oxygène toxiques sont générés par l'enzyme NADPH oxydase. Ils peuvent aussi éjecter des pièges extracellulaires, des réseaux d'ADN et de protéines antimicrobiennes qui capturent les pathogènes.
+
+L'éosinophilie, une teneur en éosinophiles supérieure à cinq cents par microlitre, est dans le monde le plus souvent causée par des infestations parasitaires vermineuses. Dans les pays occidentaux, les affections allergiques comme l'asthme et l'eczéma atopique sont la cause la plus fréquente. Les réactions médicamenteuses, les syndromes pulmonaires à éosinophiles et certaines tumeurs malignes, comme le lymphome de Hodgkin, peuvent également provoquer une éosinophilie.
+
+La neutrophilie, un nombre de neutrophiles supérieur à sept mille cinq cents par microlitre, résulte le plus souvent d'une infection bactérienne. Les corticostéroïdes provoquent une neutrophilie caractéristique en détachant les neutrophiles de la paroi vasculaire. Dans la leucémie myéloïde chronique, une neutrophilie extrême peut survenir, avec un décalage à gauche et une basophilie et une éosinophilie caractéristiques.
+
+La neutropénie, un nombre de neutrophiles inférieur à quinze cents par microlitre, est cliniquement significative en raison du risque infectieux. En dessous de cinq cents par microlitre, le risque est grave, et en dessous de cent par microlitre, la situation met la vie en danger. Les causes fréquentes sont la chimiothérapie cytotoxique, l'anémie aplasique, les réactions médicamenteuses à des produits comme la clozapine ou le carbimazole, les carences en vitamine B-douze ou en acide folique, et la destruction auto-immune des neutrophiles.
+
+La neutropénie congénitale sévère, aussi appelée syndrome de Kostmann, est causée par des mutations du gène ELANE et se présente avec des taux de neutrophiles très bas dès la naissance. La neutropénie cyclique est une affection apparentée dans laquelle le taux de neutrophiles baisse périodiquement tous les vingt et un jours, pendant trois à cinq jours. Les deux affections répondent au G-CSF.
+
+La neutropénie fébrile, c'est-à-dire la fièvre chez un patient dont le taux de neutrophiles est inférieur à cinq cents par microlitre, est une urgence médicale. Une antibiothérapie empirique à large spectre doit être instaurée immédiatement, sans attendre les résultats des cultures, car le risque de sepsis bactérien rapidement progressif est très élevé.
+
+Le syndrome de Felty associe une polyarthrite rhumatoïde de longue durée, une splénomégalie et une neutropénie. La rate élargie séquestre et détruit prématurément les neutrophiles.
+
+La monocytose est caractéristique de la leucémie myélomonocytaire chronique, une affection clonale qui associe des caractéristiques de myélodysplasie et de myéloprolifération. Elle s'observe aussi au cours d'infections chroniques comme la tuberculose et l'endocardite bactérienne subaiguë. La monocytopénie est classiquement associée à la leucémie à tricholeucocytes.
