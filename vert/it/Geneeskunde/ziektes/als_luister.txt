@@ -1,0 +1,13 @@
+SLA, sclerosi laterale amiotrofica — nota di contesto biomedico a integrazione della biblioteca Beerlandt.
+
+Dal punto di vista biomedico, la sclerosi laterale amiotrofica è una malattia neurodegenerativa progressiva e fatale, nella quale degenerano sia i motoneuroni superiori sia quelli inferiori. I motoneuroni superiori si trovano nella corteccia motoria cerebrale e nel tratto corticospinale; quelli inferiori nel tronco encefalico e nel midollo spinale. È la malattia del motoneurone più frequente negli adulti.
+
+Per quanto riguarda le cause: il dieci per cento dei casi è familiare, con mutazioni geniche note come quelle in SOD uno, C nove orf settantadue e TDP quarantatré come principali cause genetiche. Il novanta per cento è sporadico, con più meccanismi che contribuiscono: stress ossidativo, iperattivazione dei recettori del glutammato, disfunzione mitocondriale, alterazione del trasporto assonale, neuroinfiammazione e accumulo di proteine ripiegate in modo errato. Il coinvolgimento simultaneo dei motoneuroni superiori e inferiori è caratteristico della SLA.
+
+Dal punto di vista clinico, la presentazione varia a seconda della localizzazione: debolezza e atrofia muscolare degli arti nella forma spinale, oppure problemi del linguaggio e della deglutizione nella forma bulbare. La progressione è inesorabile, con diffusione a tutte le aree motorie. La sensibilità, la continenza e i movimenti oculari restano risparmiati. La sopravvivenza mediana dopo la diagnosi è di due-cinque anni, con l'insufficienza respiratoria come principale causa di morte.
+
+Il trattamento comprende due farmaci che rallentano la malattia: il riluzolo, un inibitore del glutammato, prolunga la sopravvivenza in media di due-tre mesi; l'edaravone, un antiossidante, rallenta il declino funzionale in un sottogruppo. Le cure palliative multidisciplinari sono la pietra angolare: logopedia, supporto respiratorio, nutrizione tramite sonda, fisioterapia e accompagnamento psicosociale.
+
+In relazione a Beerlandt, l'approccio biomedico descrive la SLA come una degenerazione inesorabile dei motoneuroni dovuta a un intreccio di meccanismi genetici, ossidativi e infiammatori, mentre Beerlandt descrive la progressiva perdita del movimento volontario come l'espressione corporea di convinzioni inconsce autodistruttive e di un profondo senso di espiazione: le due prospettive toccano il tema del controllo e della forza di volontà, ciascuna da un livello di analisi fondamentalmente diverso.
+
+— analista Med

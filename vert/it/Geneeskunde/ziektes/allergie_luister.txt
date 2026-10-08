@@ -1,0 +1,13 @@
+Allergia — nota di contesto biomedico a integrazione della biblioteca Beerlandt.
+
+Dal punto di vista biomedico, l'allergia è una reazione immunitaria esagerata e clinicamente manifesta nei confronti di una sostanza ambientale di per sé innocua, l'allergene. La risposta immunologica di base è nella maggior parte dei casi mediata dalle IgE, con attivazione dei mastociti e dei granulociti basofili e rilascio di istamina e di altre sostanze infiammatorie.
+
+Per quanto riguarda le cause: in una persona sensibilizzata l'allergene si lega agli anticorpi IgE sulla superficie dei mastociti. Questo innesca la degranulazione con rilascio di istamina, leucotrieni e prostaglandine, che causano vasodilatazione, broncocostrizione, secrezione di muco e prurito. La sensibilizzazione allergica nasce in persone geneticamente predisposte dopo ripetuta esposizione agli allergeni. La cosiddetta ipotesi igienica sostiene che una ridotta esposizione ai microrganismi nella prima infanzia orienti il sistema immunitario verso reazioni allergiche.
+
+Dal punto di vista clinico, il quadro varia a seconda dell'organo coinvolto: rinite allergica con starnuti a raffica e naso che cola, asma allergico con respiro sibilante, orticaria e gonfiore della pelle, allergia alimentare da un lieve prurito alla bocca fino all'anafilassi sistemica. L'anafilassi è la manifestazione più grave — un'urgenza medica che richiede immediatamente adrenalina.
+
+Il trattamento comprende, come base, l'evitamento dell'allergene, gli antistaminici per il controllo dei sintomi e i corticosteroidi nelle forme più gravi. I pazienti a rischio di anafilassi portano con sé un autoiniettore di adrenalina. L'immunoterapia allergene-specifica è l'unico trattamento in grado di arrestare la malattia e induce tolleranza attraverso un'esposizione graduale all'allergene.
+
+In relazione a Beerlandt, la lente biomedica descrive l'allergia come una misurabile reazione eccessiva del sistema immunitario, mediata dalle IgE, a sostanze innocue, mentre Beerlandt descrive l'allergia come espressione dell'essere allergici a aspetti di se stessi — il sistema immunitario che tratta ciò che è proprio come estraneo. Entrambe le prospettive toccano il tema di che cosa viene riconosciuto come estraneo e minaccioso e di che cosa si può tollerare come proprio.
+
+— analista Med

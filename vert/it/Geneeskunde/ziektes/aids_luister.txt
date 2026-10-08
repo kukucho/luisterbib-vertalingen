@@ -1,0 +1,13 @@
+AIDS — nota di contesto biomedico a integrazione della biblioteca Beerlandt.
+
+Dal punto di vista biomedico, l'AIDS, per esteso Acquired Immune Deficiency Syndrome, cioè sindrome da immunodeficienza acquisita, è lo stadio terminale dell'infezione da virus dell'immunodeficienza umana. È caratterizzata da una grave compromissione del sistema immunitario cellulare. La definizione di criterio è una conta dei linfociti CD quattro inferiore a duecento cellule per microlitro, oppure la presenza di una o più patologie che definiscono l'AIDS, come la polmonite da Pneumocystis, la toxoplasmosi o il sarcoma di Kaposi.
+
+Per quanto riguarda le cause: l'HIV è un retrovirus che si lega ai recettori CD quattro sui linfociti T helper, sui macrofagi e sulle cellule dendritiche. Dopo l'integrazione dell'RNA virale nel DNA dell'ospite, il virus si replica e distrugge gradualmente i linfociti T CD quattro positivi. La perdita dell'immunità cellulare rende l'ospite vulnerabile alle infezioni opportunistiche e a determinate neoplasie maligne che, in un sistema immunitario intatto, vengono soppresse. Senza trattamento, la conta dei CD quattro cala in media da cinquanta a cento cellule all'anno dopo il contagio.
+
+Dal punto di vista clinico, l'infezione procede per fasi: una fase acuta con febbre, ingrossamento dei linfonodi e mal di gola poco dopo il contagio, seguita da una fase asintomatica lunga anni con un lento declino immunitario e infine la fase di AIDS con perdita di peso, infezioni ricorrenti e patologie opportunistiche potenzialmente letali.
+
+Il trattamento comprende la terapia antiretrovirale di combinazione con almeno tre farmaci antivirali. I regimi terapeutici moderni raggiungono, nei pazienti aderenti alla terapia, una soppressione virale al di sotto del limite di rilevabilità, normalizzano l'aspettativa di vita e rendono la trasmissione pressoché impossibile. La profilassi pre-esposizione è una prevenzione efficace per i gruppi ad alto rischio.
+
+In relazione a Beerlandt, la lente biomedica descrive l'AIDS come il misurabile collasso del sistema immunitario cellulare a causa di un'infezione retrovirale, mentre Beerlandt descrive il sistema immunitario come l'espressione corporea dell'amore per sé e della forza dell'identità: le due prospettive si incontrano nella domanda su che cosa metta il corpo in grado di proteggersi e di distinguere ciò che gli è estraneo.
+
+— analista Med

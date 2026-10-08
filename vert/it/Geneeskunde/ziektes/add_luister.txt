@@ -1,0 +1,13 @@
+ADD — nota di contesto biomedico a integrazione della biblioteca Beerlandt.
+
+Dal punto di vista biomedico, ADD è la denominazione corrente dell'ADHD di tipo prevalentemente inattentivo. È un disturbo del neurosviluppo di origine neurobiologica, caratterizzato da una disattenzione persistente, inusuale per l'età di sviluppo, senza l'iperattività o l'impulsività clinicamente significative presenti nel tipo combinato.
+
+Per quanto riguarda le cause: l'ADD ha una forte componente genetica, con un'ereditabilità dal settanta all'ottanta per cento. I geni coinvolti regolano la segnalazione della dopamina e della noradrenalina nel cervello. La neuroimmagine mostra una maturazione mediamente ritardata della corteccia prefrontale e una ridotta attivazione del circuito che governa l'attenzione, la memoria di lavoro e le funzioni esecutive. Fattori ambientali come la nascita pretermine, l'esposizione prenatale al tabacco o all'alcol e il trauma psicosociale aumentano la probabilità di espressione.
+
+Dal punto di vista clinico, le caratteristiche principali sono la difficoltà a mantenere l'attenzione nei compiti o nel gioco, la facilità a distrarsi per stimoli esterni, la dimenticanza nelle attività quotidiane e la difficoltà a pianificare e a organizzare. L'iperattività è assente o minima. Sono caratteristici il sognare a occhi aperti, la lentezza nell'iniziare i compiti e gli errori di distrazione. Le complicanze sono i problemi scolastici, una ridotta fiducia in sé e una maggiore vulnerabilità ai disturbi d'ansia e dell'umore.
+
+Il trattamento prevede un approccio combinato: psicoeducazione per il bambino e i genitori, interventi di terapia comportamentale e, quando l'impatto è grave, farmaci. Il metilfenidato e i preparati a base di anfetamine aumentano la disponibilità di dopamina e noradrenalina nella corteccia prefrontale. Gli adattamenti scolastici e il coaching sulle funzioni esecutive sono di supporto.
+
+In relazione a Beerlandt, la lente biomedica descrive l'ADD come una variazione neurobiologica della maturazione nella segnalazione dopaminergica prefrontale, mentre Beerlandt descrive lo stesso schema di attenzione non orientata come una fuga dal proprio nucleo e come il rifiuto di nascere davvero alla vita: entrambe le prospettive riconoscono un blocco fondamentale nella capacità di essere presenti in modo focalizzato.
+
+— analista Med

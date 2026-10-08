@@ -1,0 +1,13 @@
+Albinismo — nota di contesto biomedico a integrazione della biblioteca Beerlandt.
+
+Dal punto di vista biomedico, l'albinismo è un gruppo di condizioni ereditarie caratterizzate dall'assenza congenita o da una grave riduzione del pigmento melanina nella pelle, nei capelli e negli occhi. La forma più frequente è l'albinismo oculocutaneo, in cui sono interessate tutte e tre le strutture.
+
+Per quanto riguarda le cause: l'albinismo è causato da varianti difettose nei geni coinvolti nella biosintesi della melanina nelle cellule pigmentate. Nel tipo più frequente manca l'enzima tirosinasi oppure non funziona bene: è l'enzima chiave che converte l'aminoacido tirosina in melanina. Il numero delle cellule pigmentate è normale, ma esse non producono pigmento o ne producono appena. La trasmissione è quasi sempre autosomica recessiva, il che significa che entrambi i genitori devono essere portatori.
+
+Dal punto di vista clinico, il quadro è tipico: pelle da bianca a rosata, capelli bianchi o biondo chiarissimo e occhi da azzurro chiaro a rossi per la visibilità dei vasi sanguigni dietro l'iride priva di colore. Le anomalie oculari sono sempre presenti: movimenti oculari involontari, fotofobia, strabismo e ridotta acuità visiva. La pelle è estremamente sensibile alle radiazioni ultraviolette, con un rischio aumentato per tutta la vita di tumori della pelle.
+
+Il trattamento non comprende una guarigione ma la protezione: creme solari ad alto fattore, abbigliamento protettivo ed evitamento del sole intenso. Gli ausili ottici compensano le limitazioni visive. Sono indicati per tutta la vita controlli regolari dal dermatologo e dall'oculista.
+
+In relazione a Beerlandt, la lente biomedica descrive l'albinismo interamente come una carenza enzimatica geneticamente determinata nella biosintesi della melanina, mentre Beerlandt descrive l'assenza di pigmento come l'espressione di un'anima che esita ad accogliere il calore e il colore della vita terrena: entrambe le prospettive toccano il tema della presenza e della protezione: in senso biomedico come barriera cutanea, in Beerlandt come strato simbolico tra dentro e fuori.
+
+— analista Med

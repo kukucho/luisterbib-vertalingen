@@ -1,0 +1,13 @@
+ADHD — nota di contesto biomedico a integrazione della biblioteca Beerlandt.
+
+Dal punto di vista biomedico, l'ADHD, per esteso Attention-Deficit/Hyperactivity Disorder, cioè disturbo da deficit di attenzione e iperattività, è un disturbo del neurosviluppo di origine neurobiologica, caratterizzato da un pattern di disattenzione e/o di iperattività e impulsività che disturba il funzionamento in più ambiti della vita. Il DSM-cinque distingue tre presentazioni: prevalentemente inattentiva, prevalentemente iperattiva-impulsiva e combinata; la presentazione combinata è la più frequente.
+
+Per quanto riguarda le cause: l'ereditabilità è dal settanta all'ottanta per cento, con più geni coinvolti nel metabolismo della dopamina e della noradrenalina. L'imaging cerebrale mostra nell'ADHD, in media, volumi minori della corteccia prefrontale, dello striato e del cervelletto, con una maturazione corticale ritardata. Una ridotta attività dopaminergica nel circuito fronto-striatale porta a una ridotta inibizione degli stimoli distraenti e delle risposte impulsive. I fattori di rischio ambientali sono la nascita pretermine, il basso peso alla nascita e l'esposizione prenatale a fumo o alcol.
+
+Dal punto di vista clinico, il quadro comprende la disattenzione — difficoltà a mantenere l'attenzione, dimenticanza, perdita di oggetti — e l'iperattività-impulsività: irrequietezza, incapacità di stare fermi, interruzione degli altri e decisioni avventate. I sintomi iniziano prima del dodicesimo anno di vita e sono presenti in almeno due contesti. Le complicanze sono i problemi di apprendimento, i disturbi d'ansia e dell'umore e un rischio aumentato di abuso di sostanze.
+
+Il trattamento comprende la terapia comportamentale, il sostegno ai genitori, gli adattamenti scolastici e, nei disturbi di gravità moderata, i farmaci. Gli stimolanti come il metilfenidato e le anfetamine sono la prima scelta. L'atomoxetina e la guanfacina sono alternative. L'attività fisica, la regolazione del sonno e la strutturazione dell'ambiente sono di supporto.
+
+In relazione a Beerlandt, la lente biomedica descrive l'ADHD come una variazione neurobiologica nella maturazione e nel funzionamento dei circuiti cerebrali dopaminergici, mentre Beerlandt considera la mobilità irrequieta e superficiale come una valvola di sfogo per forze trattenute e come una fuga dalla paura che la propria natura suscita: entrambe le prospettive riconoscono nell'ADHD una tensione fondamentale tra l'energia interiore e la capacità di indirizzare e di controllare quell'energia.
+
+— analista Med
