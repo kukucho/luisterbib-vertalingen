@@ -1,0 +1,13 @@
+Ascesso — nota di contesto biomedico a integrazione della biblioteca Beerlandt.
+
+Dal punto di vista biomedico un ascesso è una raccolta localizzata di pus in una cavità formatasi per infiammazione del tessuto e disfacimento cellulare. Può formarsi in qualsiasi parte del corpo — nella pelle e nel tessuto connettivo sottocutaneo, in organi come il fegato, il polmone o il cervello, nella cavità addominale o nella regione perianale — ed è circondato da una capsula piogena di tessuto infiammato.
+
+Per quanto riguarda le cause: i patogeni più frequenti sono lo Staphylococcus aureus, gli streptococchi e gli anaerobi. Dopo l'invasione batterica, il sistema immunitario attiva una cascata infiammatoria locale: i globuli bianchi migrano verso la sede dell'infezione, uccidono i batteri per fagocitosi, e l'accumulo di leucociti morti, batteri e detriti cellulari forma il pus. Il tessuto circostante forma una parete fibrosa che incapsula l'infezione, ma ostacola anche la penetrazione degli antibiotici.
+
+Dal punto di vista clinico i segni classici sono dolore, calore, rossore, gonfiore e perdita di funzione in sede locale. Gli ascessi superficiali sono visibili come tumefazioni fluttuanti e dolorose che talvolta si aprono spontaneamente. Gli ascessi profondi danno sintomi generali: febbre, brividi e valori infiammatori elevati nel sangue. Le complicanze sono la sepsi, l'estensione alle strutture adiacenti e la recidiva in caso di drenaggio incompleto.
+
+Il trattamento comprende l'incisione e il drenaggio come principio terapeutico fondamentale: aprire l'ascesso ed evacuare il pus. Gli antibiotici sono utili solo come complemento, quando vi sia un'infiammazione cutanea circostante o segni di infezione sistemica. Negli ascessi profondi o d'organo si ricorre al drenaggio guidato da immagini, mediante puntura sotto guida TC o ecografica.
+
+In relazione a Beerlandt, l'approccio biomedico descrive un ascesso come un processo meccanico-microbiologico di incapsulamento batterico e di reazione immunitaria, mentre Beerlandt considera la stessa raccolta locale come la forma corporea di un'energia emotiva addensata, che non è potuta defluire — entrambe le prospettive indicano uno schema simile, quello di qualcosa che è sotto pressione e alla fine vuole irrompere all'esterno.
+
+— analista Med
