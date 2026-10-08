@@ -1,19 +1,20 @@
 {
-  "it": {
-    "klaar": 1568,
-    "afgekeurd": [],
-    "onderdelen": {
-      "Geneeskunde": 609,
-      "GermanseGeneeskunde": 501,
-      "Beerlandt": 363,
-      "Hellinger": 95
-    }
-  },
-  "fr": {
-    "klaar": 95,
-    "afgekeurd": [],
-    "onderdelen": {
-      "Hellinger": 95
-    }
+ "it": {
+  "klaar": 1568,
+  "afgekeurd": [],
+  "onderdelen": {
+   "Geneeskunde": 609,
+   "GermanseGeneeskunde": 501,
+   "Beerlandt": 363,
+   "Hellinger": 95
   }
+ },
+ "fr": {
+  "klaar": 458,
+  "afgekeurd": [],
+  "onderdelen": {
+   "Hellinger": 95,
+   "Beerlandt": 363
+  }
+ }
 }
