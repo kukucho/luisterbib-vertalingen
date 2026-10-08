@@ -10,12 +10,13 @@
   }
  },
  "fr": {
-  "klaar": 959,
+  "klaar": 1049,
   "afgekeurd": [],
   "onderdelen": {
    "Hellinger": 95,
    "Beerlandt": 363,
-   "GermanseGeneeskunde": 501
+   "GermanseGeneeskunde": 501,
+   "Geneeskunde": 90
   }
  }
 }
