@@ -1,0 +1,9 @@
+Neurodermite. Prospettiva biomedica.
+
+Neurodermite è il nome storico, in uso nella medicina di lingua tedesca, della dermatite atopica. Dal punto di vista biomedico si tratta della stessa malattia. Il nome sottolinea tuttavia una dimensione fortemente presente nel quadro clinico dell'eczema atopico: il ruolo del sistema nervoso e dello stress psicologico.
+
+Il meccanismo di base è identico a quello dell'eczema atopico: un difetto della barriera legato alla filaggrina e una risposta infiammatoria Th-due. L'accento aggiuntivo nella neurodermite è posto sull'infiammazione neurogena. Lo stress attiva l'asse ipotalamo-ipofisi-surrene e il sistema nervoso simpatico, per cui i livelli di cortisolo aumentano e l'attività noradrenergica cresce. Allo stesso tempo, le terminazioni nervose sensoriali nella pelle rilasciano neuropeptidi — in particolare la sostanza P — che attivano i mastociti, favoriscono la vasodilatazione e rafforzano l'infiammazione. I periodi di stress si traducono così, in modo misurabile, in riacutizzazioni cutanee.
+
+A ciò si aggiunge il ruolo centrale del ciclo prurito-grattamento. Il prurito porta al grattamento, il grattamento causa danno cutaneo e rilascio di istamina, che rafforza di nuovo il prurito. Il grattamento cronico induce lichenificazione — ispessimento della pelle — e sensibilizzazione centrale: il sistema nervoso centrale abbassa la propria soglia per i segnali di prurito, per cui il tocco normale viene percepito come prurito.
+
+Il trattamento è identico a quello dell'eczema atopico: emollienti, corticosteroidi topici, inibitori della calcineurina e, nelle forme gravi, dupilumab o inibitori delle JAK. In aggiunta, la gestione dello stress, la terapia cognitivo-comportamentale e l'interruzione del ciclo prurito-grattamento mediante tecniche comportamentali e di occlusione fanno parte di un approccio completo.

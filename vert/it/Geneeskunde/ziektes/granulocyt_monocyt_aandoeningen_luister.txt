@@ -1,0 +1,17 @@
+Disturbi dei granulociti e dei monociti. Capitolo quarantanove di Cecil's Essentials of Medicine.
+
+I neutrofili sono i granulociti più numerosi e costituiscono la difesa primaria contro batteri e funghi. Quando incontrano un agente patogeno, migrano attraverso la parete vasale per chemiotassi, inglobano gli organismi per fagocitosi e li distruggono con lo scoppio ossidativo — in cui si generano composti reattivi tossici dell'ossigeno tramite l'enzima NADPH ossidasi. Possono anche espellere trappole extracellulari dei neutrofili, reti di DNA e proteine antimicrobiche che catturano i patogeni.
+
+L'eosinofilia — un numero di eosinofili superiore a cinquecento per microlitro — è causata più spesso, a livello mondiale, da infezioni parassitarie da vermi. Nei paesi occidentali, le cause più frequenti sono le malattie allergiche come l'asma e la dermatite atopica. Anche le reazioni ai farmaci, le sindromi polmonari eosinofile e alcune neoplasie maligne come il linfoma di Hodgkin possono causare eosinofilia.
+
+La neutrofilia — una conta di neutrofili superiore a settemilacinquecento per microlitro — è più spesso la conseguenza di un'infezione batterica. I corticosteroidi provocano una caratteristica neutrofilia staccando i neutrofili dalla parete vasale. Nella leucemia mieloide cronica può comparire una neutrofilia estrema con una deviazione a sinistra e con una caratteristica basofilia ed eosinofilia.
+
+La neutropenia — una conta di neutrofili inferiore a millecinquecento per microlitro — è clinicamente significativa per il rischio di infezioni. Sotto i cinquecento per microlitro il rischio è grave, e sotto i cento per microlitro la situazione è pericolosa per la vita. Le cause frequenti sono la chemioterapia citotossica, l'anemia aplastica, le reazioni ai farmaci come la clozapina o il carbimazolo, la carenza di vitamina B dodici o di acido folico e la distruzione autoimmune dei neutrofili.
+
+La neutropenia congenita grave, detta anche sindrome di Kostmann, è causata da mutazioni del gene ELANE e si presenta con conte di neutrofili molto basse fin dalla nascita. La neutropenia ciclica è una condizione affine in cui la conta dei neutrofili diminuisce periodicamente ogni ventuno giorni, per una durata da tre a cinque giorni. Entrambe le condizioni rispondono al G-CSF.
+
+La neutropenia febbrile — febbre in un paziente con una conta di neutrofili inferiore a cinquecento per microlitro — è un'emergenza medica. Gli antibiotici empirici ad ampio spettro devono essere iniziati immediatamente, senza attendere i risultati delle colture, perché il rischio di sepsi batterica rapidamente progressiva è molto alto.
+
+La sindrome di Felty è la combinazione di artrite reumatoide di lunga durata, splenomegalia e neutropenia. La milza ingrandita sequestra e distrugge prematuramente i neutrofili.
+
+La monocitosi è la caratteristica della leucemia mielomonocitica cronica, una condizione clonale che combina caratteristiche di mielodisplasia e di mieloproliferazione. Si verifica anche nelle infezioni croniche come la tubercolosi e l'endocardite batterica subacuta. La monocitopenia è classicamente associata alla leucemia a cellule capellute.
