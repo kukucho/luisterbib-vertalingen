@@ -63,7 +63,38 @@ Vaste termen; gebruik consequent. Per onderdeel een sectie. Aanspreking: Helling
 - (nieuwe termen onderaan toevoegen)
 
 ## Beerlandt
-(nog aan te vullen)
+Tu-vorm (jij). Titelregel volgt de bron; ziektenaam: officiële Franse medische term (zoals een arts hem zegt).
+- Beerlandt, De Sleutel tot Zelfbevrijding → «Beerlandt, De sleutel tot zelfbevrijding» (originele titel behouden; geen officiële Franse titel bekend; zonder guillemets)
+- Christiane Beerlandt → niet vertalen
+- Kernoorsprong → Origine essentielle
+- Weg naar genezing / De weg naar genezing → Le chemin vers la guérison
+- kernboodschap → message essentiel (Le message essentiel)
+- titelvorm «Psychologische kernoorsprong en weg naar genezing» → «origine essentielle psychologique et chemin vers la guérison»
+- titelvorm «Psychologische betekenis en kernboodschap» → «signification psychologique et message essentiel»
+- zelfbevrijding → libération de soi
+- loslaten → lâcher prise
+- vasthouden → retenir / s'accrocher
+- angst → peur (voor iets) / angoisse (diepe angst)
+- vertrouwen → confiance
+- levensenergie → énergie vitale
+- innerlijke krachten → forces intérieures
+- onbewust → inconscient
+- gevoel / emotie → sentiment / émotion
+- schuldgevoel → sentiment de culpabilité
+- onvermogen → incapacité
+- verlangen → désir
+- zelfbeperking → auto-limitation
+- zelfvernietiging → autodestruction
+- woede → colère; agressie → agressivité
+- genezing → guérison
+- bewust(zijn) → conscient / conscience
+- Zelf / Ik (Beerlandt, hoofdletter) → Soi / Moi; ik-centrum → centre du Moi; kern-ik → Moi essentiel
+- aarding → ancrage; zelfwording → devenir soi-même; zelfaanvaarding → acceptation de soi; zelfverwerkelijking → réalisation de soi
+- machteloosheid → impuissance; boetedoening → expiation
+- oerkrachten / oerenergieën → forces originelles / énergies primordiales; oertrauma → traumatisme originel
+- ziektenamen: gangbare artsenterm (hémorroïdes, aphtes, abcès, cancer/tumeur, ...); gordelroos → zona; leukemie → leucémie; hooikoorts → rhume des foins
+- Covid-negentien → Covid-dix-neuf
+- nieuwe termen onderaan toevoegen
 
 ## GermanseGeneeskunde
 (nog aan te vullen)
