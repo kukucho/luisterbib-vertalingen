@@ -1,0 +1,11 @@
+Hypoglycémie — note de contexte biomédicale.
+
+Sur le plan biomédical, l'hypoglycémie est un état de concentrations anormalement basses de glucose sanguin, cliniquement défini par une glycémie inférieure à soixante-dix milligrammes par décilitre. La triade de Whipple — glycémie basse, symptômes compatibles et amélioration après correction de la glycémie — confirme le diagnostic.
+
+En ce qui concerne les causes et les mécanismes, la cause la plus fréquente est le traitement par insuline ou par antidiabétiques oraux chez les patients diabétiques. Chez les personnes non diabétiques, les causes sont : une tumeur pancréatique productrice d'insuline ou insulinome, une insuffisance corticosurrénalienne, une maladie hépatique sévère, la consommation d'alcool à jeun et de rares anomalies enzymatiques. Physiologiquement, l'organisme réagit à l'hypoglycémie par des hormones contre-régulatrices — glucagon, adrénaline, hormone de croissance et cortisol — qui élèvent la glycémie par glycogénolyse et néoglucogenèse. En cas d'hypoglycémies récurrentes, cette réponse contre-régulatrice peut s'émousser.
+
+Sur le plan clinique, les symptômes se répartissent en deux groupes : les symptômes adrénergiques — tremblements, sueurs, palpitations, pâleur, faim — et les symptômes neuroglycopéniques, comme les troubles de la concentration, la confusion, la vision trouble, les convulsions et la perte de connaissance. Une hypoglycémie sévère non traitée entraîne des lésions cérébrales durables.
+
+Le traitement de l'hypoglycémie légère consiste à absorber quinze à vingt grammes de glucides à action rapide. En cas de perte de connaissance : glucose par voie intraveineuse ou glucagon par voie intramusculaire. Le traitement étiologique est essentiel : adaptation du schéma d'insuline, ablation d'un insulinome ou substitution en cas d'insuffisance corticosurrénalienne.
+
+En relation avec Beerlandt : là où la lecture biomédicale décrit l'hypoglycémie comme un déficit mesurable en glucose sanguin, qui agit de façon aiguë et parfois mortelle sur la fonction cérébrale, Beerlandt décrit le fait de laisser baisser son propre taux de sucre comme l'image corporelle de se rendre petit et de ne pas utiliser ses propres grandes forces. Dans les deux lectures, il s'agit d'un manque d'énergie, même si la cause est biochimique dans un cas, psychologique dans l'autre.
