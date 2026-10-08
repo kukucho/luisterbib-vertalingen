@@ -41,3 +41,15 @@ Plekken waar de Nederlandse bron zelf onduidelijk, fout of medisch/historisch af
 - Grof taalgebruik in GermanseGeneeskunde/sbs/sbs_ingewanden_rectum («schijtconflict») is neutraal gemaakt («conflitto delle feci»).
 - Cijfers in codes: spiegelen de bron (Arabisch in bron → Arabisch; voluit in bron → voluit).
 - Nederlands «pond» → «mezzo chilo» en «biljoen» → «mille miliardi» in Geneeskunde/systemen/gastro-intestinaal/hematologisch.
+
+## Aanvullingen uit de Franse ronde (GermanseGeneeskunde en Geneeskunde)
+- Geneeskunde/bewustzijnsstoornissen: «onstuimige waaktoestand, vroeger vegetatieve staat» is vermoedelijk een foute vertaling van "unresponsive wakefulness"; Frans geeft «état d'éveil non répondant».
+- Geneeskunde/cyste: Echinococcus wordt «spoelworm» genoemd (is een lintworm); Frans «ver».
+- Geneeskunde: Cyrillische letters in bronwoorden (folaaттekort, pleuraпunctie, vacuümereктieapparaten) en veel typefouten (zie rapporten); vertaald naar de bedoelde betekenis.
+- Geneeskunde/infectieuze_diarree: «bijna achtennegening procent» (typefout, bedoeld achtennegentig).
+- Geneeskunde/ondervoeding: «NRS-tweeduiznul» (bedoeld NRS 2002); preoperatieve zorg «zevenentwinting».
+- Geneeskunde/kankerbiologie: telomeren: bron zegt «lang genoeg», bedoeld «kort genoeg».
+- Geneeskunde/bewegingsapparaat: hoofdstukken «achtenzeventig tot en met zevenachtig» (bedoeld 97); neurologisch systeem «honderdzesmaaltig».
+- GermanseGeneeskunde/concepten: dhs: Dirk Hamer overleed volgens de bron 1968 (historisch 1978); concept_gnm_therapie, erfelijke_ziekten, allergieen, aard_tumoren bevatten medisch gevaarlijke stellingen (zie eerdere lijst); alle GNM-teksten zijn trouw vertaald, niet verzacht.
+- GermanseGeneeskunde: sbs_nagels_algemeen: de Franse vertaling was afgekapt; drie alinea's zijn door de controleur aangevuld zonder tweede controle (nogmaals laten nakijken).
+- GermanseGeneeskunde: bronfouten: sbs_nachtblindheid («nyctalopie» bedoelt hemeralopie), sbs_mazelen («drieen»), sbs_lupus_huid («vlindervlinder»), sbs_reflux (tegenstrijdige ecto-/endoderm-lokalisatie), sbs_prostaatkanker («seksualiteitserkend»).
