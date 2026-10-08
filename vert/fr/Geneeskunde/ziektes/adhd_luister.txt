@@ -1,0 +1,13 @@
+TDAH — note de contexte biomédicale en complément de la bibliothèque Beerlandt.
+
+Sur le plan biomédical, le TDAH, dont le nom complet est Attention-Deficit/Hyperactivity Disorder, est un trouble neurodéveloppemental d'origine neurobiologique, caractérisé par un schéma d'inattention et/ou d'hyperactivité et d'impulsivité qui perturbe le fonctionnement dans plusieurs domaines de la vie. Le DSM-cinq distingue trois présentations : à prédominance inattentive, à prédominance hyperactive-impulsive et combinée. Le type combiné est le plus fréquent.
+
+En ce qui concerne les causes, l'héritabilité est de soixante-dix à quatre-vingts pour cent, avec plusieurs gènes impliqués dans le métabolisme de la dopamine et de la noradrénaline. L'imagerie cérébrale montre en moyenne des volumes plus petits du cortex préfrontal, du striatum et du cervelet, avec un retard de maturation corticale. Une activité dopaminergique réduite dans le circuit fronto-striatal conduit à une inhibition diminuée des stimuli distrayants et à des réponses impulsives. Les facteurs de risque environnementaux sont la prématurité, un faible poids de naissance et l'exposition prénatale à la fumée ou à l'alcool.
+
+Sur le plan clinique, le tableau comprend l'inattention — difficulté à maintenir l'attention, oublis, perte d'objets — et l'hyperactivité-impulsivité : agitation, incapacité à rester assis, interruption des autres et décisions irréfléchies. Les symptômes débutent avant l'âge de douze ans et sont présents dans au moins deux contextes. Les complications sont les difficultés d'apprentissage, les troubles anxieux et de l'humeur, et un risque accru d'abus de substances.
+
+Le traitement comprend une thérapie comportementale, un accompagnement parental, des aménagements scolaires et, en cas de symptômes modérés à sévères, un traitement médicamenteux. Les stimulants comme le méthylphénidate et les amphétamines sont le traitement de première intention. L'atomoxétine et la guanfacine sont des alternatives. L'activité physique, la régulation du sommeil et la structuration de l'environnement sont des mesures de soutien.
+
+En relation avec Beerlandt, la lecture biomédicale décrit le TDAH comme une variation dans la maturation et le fonctionnement des circuits cérébraux dopaminergiques, tandis que Beerlandt considère l'agitation superficielle et la mobilité constante comme une soupape pour des forces retenues, et comme une fuite devant l'angoisse que suscite sa propre nature. Les deux perspectives reconnaissent dans le TDAH une tension fondamentale entre l'énergie intérieure et la capacité à diriger et à maîtriser cette énergie.
+
+— analyste Med

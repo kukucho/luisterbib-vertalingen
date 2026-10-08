@@ -1,0 +1,13 @@
+Albinisme — note de contexte biomédicale en complément de la bibliothèque Beerlandt.
+
+Sur le plan biomédical, l'albinisme est un groupe d'affections héréditaires caractérisées par une absence congénitale ou une forte diminution du pigment mélanine dans la peau, les cheveux et les yeux. La forme la plus fréquente est l'albinisme oculocutané, dans lequel ces trois structures sont touchées.
+
+En ce qui concerne les causes, l'albinisme est provoqué par des variants pathogènes dans des gènes impliqués dans la biosynthèse de la mélanine dans les cellules pigmentaires. Dans le type le plus fréquent, l'enzyme tyrosinase est absente ou ne fonctionne pas correctement : c'est l'enzyme clé qui transforme l'acide aminé tyrosine en mélanine. Le nombre de cellules pigmentaires est normal, mais elles ne produisent aucun pigment ou presque. L'hérédité est presque toujours autosomique récessive, ce qui signifie que les deux parents doivent être porteurs.
+
+Sur le plan clinique, le tableau est typique : peau blanche à rose, cheveux blancs ou blond clair et yeux bleu clair à rouges, en raison de la visibilité des vaisseaux sanguins derrière l'iris incolore. Les anomalies oculaires sont constantes : mouvements involontaires des yeux, photophobie, strabisme et baisse de l'acuité visuelle. La peau est extrêmement sensible aux rayons ultraviolets, avec un risque de cancer de la peau accru tout au long de la vie.
+
+Le traitement ne permet pas de guérir, mais de protéger : crème solaire à indice élevé, vêtements de protection et évitement du soleil intense. Des aides optiques compensent les limitations visuelles. Des contrôles réguliers chez le dermatologue et l'ophtalmologiste sont indiqués à vie.
+
+En relation avec Beerlandt, la lecture biomédicale décrit l'albinisme entièrement comme une déficience enzymatique d'origine génétique dans la biosynthèse de la mélanine, tandis que Beerlandt décrit l'absence de pigment comme l'expression d'une âme qui hésite à accepter la chaleur et la couleur de la vie terrestre. Les deux perspectives touchent au thème de la présence et de la protection : sur le plan biomédical comme barrière cutanée, chez Beerlandt comme couche symbolique entre l'intérieur et l'extérieur.
+
+— analyste Med

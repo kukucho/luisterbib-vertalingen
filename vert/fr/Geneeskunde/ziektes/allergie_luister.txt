@@ -1,0 +1,13 @@
+Allergie — note de contexte biomédicale en complément de la bibliothèque Beerlandt.
+
+Sur le plan biomédical, l'allergie est une réaction immunitaire exagérée et cliniquement manifeste à une substance environnementale en soi inoffensive, l'allergène. La réponse immunologique sous-jacente est, dans la plupart des cas, à médiation IgE, ce qui conduit à l'activation des mastocytes et des granulocytes basophiles, avec libération d'histamine et d'autres médiateurs inflammatoires.
+
+En ce qui concerne les causes, chez une personne sensibilisée, l'allergène se fixe sur les anticorps IgE à la surface des mastocytes. Cela déclenche une dégranulation avec libération d'histamine, de leucotriènes et de prostaglandines, qui provoquent une vasodilatation, une bronchoconstriction, une sécrétion de mucus et des démangeaisons. La sensibilisation allergique survient chez les personnes génétiquement prédisposées après une exposition répétée aux allergènes. L'hypothèse dite de l'hygiène postule qu'une exposition réduite aux micro-organismes pendant la petite enfance oriente le système immunitaire vers des réactions allergiques.
+
+Sur le plan clinique, le tableau varie selon l'organe concerné : rhinite allergique avec éternuements et écoulement nasal, asthme allergique avec sifflements respiratoires, urticaire et gonflement de la peau, allergie alimentaire allant de simples picotements buccaux jusqu'à une anaphylaxie systémique. L'anaphylaxie est la manifestation la plus grave : c'est une urgence médicale qui exige immédiatement de l'adrénaline.
+
+Le traitement repose d'abord sur l'évitement de l'allergène, puis sur des antihistaminiques pour contrôler les symptômes, et sur des corticostéroïdes dans les formes plus graves. Les patients à risque d'anaphylaxie portent un auto-injecteur d'adrénaline. L'immunothérapie allergénique est le seul traitement qui agit sur la maladie elle-même : elle induit une tolérance par une exposition progressive à l'allergène.
+
+En relation avec Beerlandt, la lecture biomédicale décrit l'allergie comme une hyperréaction mesurable à médiation IgE du système immunitaire face à des substances inoffensives, tandis que Beerlandt décrit l'allergie comme l'expression d'un fait d'être allergique à des aspects de soi-même : le système immunitaire traite le propre comme s'il était étranger. Les deux perspectives touchent au thème de ce qui est reconnu comme menaçant et étranger, et de ce qui peut être toléré comme sien.
+
+— analyste Med

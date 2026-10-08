@@ -1,0 +1,13 @@
+SIDA — note de contexte biomédicale en complément de la bibliothèque Beerlandt.
+
+Sur le plan biomédical, le SIDA, dont le nom complet est Acquired Immune Deficiency Syndrome, est le stade final de l'infection par le virus de l'immunodéficience humaine. Il se caractérise par une atteinte sévère de l'immunité cellulaire. La définition critériée est un taux de lymphocytes CD-quatre inférieur à deux cents cellules par microlitre, ou la présence d'une ou de plusieurs affections définissant le SIDA, comme la pneumonie à Pneumocystis, la toxoplasmose ou le sarcome de Kaposi.
+
+En ce qui concerne les causes, le VIH est un rétrovirus qui se fixe sur les récepteurs CD-quatre des lymphocytes T auxiliaires, des macrophages et des cellules dendritiques. Après intégration de l'ARN viral dans l'ADN de l'hôte, le virus se réplique et détruit progressivement les lymphocytes T CD-quatre positifs. La perte de l'immunité cellulaire rend l'hôte vulnérable aux infections opportunistes et à certaines tumeurs malignes qui sont normalement contrôlées par un système immunitaire intact. Sans traitement, le taux de CD-quatre baisse en moyenne de cinquante à cent cellules par an après la contamination.
+
+Sur le plan clinique, l'infection évolue par phases : une phase aiguë avec fièvre, gonflement des ganglions et maux de gorge peu après la contamination, suivie d'une phase asymptomatique qui peut durer des années avec un affaiblissement immunitaire lent, et enfin la phase SIDA, avec perte de poids, infections récidivantes et affections opportunistes potentiellement mortelles.
+
+Le traitement associe une trithérapie antirétrovirale avec au moins trois agents antiviraux. Les schémas thérapeutiques modernes obtiennent une suppression virale sous le seuil de détection chez les patients qui suivent bien leur traitement, normalisent l'espérance de vie et rendent la transmission quasi impossible. La prophylaxie pré-exposition est une prévention efficace pour les groupes à haut risque.
+
+En relation avec Beerlandt, la lecture biomédicale décrit le SIDA comme l'effondrement mesurable du système immunitaire cellulaire sous l'effet d'une infection rétrovirale, tandis que Beerlandt décrit le système immunitaire comme l'expression corporelle de l'amour de soi et de la force identitaire. Les deux perspectives se rejoignent dans la question de ce qui permet au corps de se protéger et de se distinguer de ce qui lui est étranger.
+
+— analyste Med

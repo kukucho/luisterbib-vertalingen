@@ -1,0 +1,13 @@
+SLA, sclérose latérale amyotrophique — note de contexte biomédicale en complément de la bibliothèque Beerlandt.
+
+Sur le plan biomédical, la sclérose latérale amyotrophique est une maladie neurodégénérative progressive et fatale, dans laquelle dégénèrent à la fois les motoneurones supérieurs et les motoneurones inférieurs. Les motoneurones supérieurs se trouvent dans le cortex moteur cérébral et la voie cortico-spinale ; les motoneurones inférieurs se trouvent dans le tronc cérébral et la moelle épinière. C'est la maladie du motoneurone la plus fréquente chez l'adulte.
+
+En ce qui concerne les causes, dix pour cent des cas sont familiaux, avec des mutations génétiques connues comme celles des gènes SOD-un, C-neuf-orf-soixante-douze et TDP-quarante-trois, qui sont les principales causes génétiques. Quatre-vingt-dix pour cent des cas sont sporadiques, et plusieurs mécanismes y contribuent : stress oxydatif, suractivation des récepteurs au glutamate, dysfonctionnement mitochondrial, perturbation du transport axonal, neuroinflammation et accumulation de protéines mal repliées. L'atteinte simultanée des motoneurones supérieurs et inférieurs est caractéristique de la SLA.
+
+Sur le plan clinique, la présentation varie selon la localisation : faiblesse et amyotrophie des membres dans la forme spinale, ou troubles de la parole et de la déglutition dans la forme bulbaire. La progression est implacable, avec extension à toutes les zones motrices. La sensibilité, la continence et les mouvements oculaires restent épargnés. La survie médiane après le diagnostic est de deux à cinq ans, l'insuffisance respiratoire étant la principale cause de décès.
+
+Le traitement comprend deux médicaments ralentisseurs de la maladie : le riluzole, un inhibiteur du glutamate, prolonge la survie en moyenne de deux à trois mois ; l'édaravone, un antioxydant, ralentit la dégradation fonctionnelle dans un sous-groupe. Les soins palliatifs pluridisciplinaires sont la pierre angulaire : logopédie, soutien respiratoire, alimentation par sonde, kinésithérapie et accompagnement psychosocial.
+
+En relation avec Beerlandt, la lecture biomédicale décrit la SLA comme une dégénérescence implacable des motoneurones, sous l'effet d'une interaction de mécanismes génétiques, oxydatifs et inflammatoires, tandis que Beerlandt décrit la perte progressive du mouvement volontaire comme l'expression corporelle de convictions inconscientes d'autodestruction et d'un profond sentiment d'expiation. Les deux perspectives touchent au thème du contrôle et de la volonté, chacune à partir d'un niveau d'analyse fondamentalement différent.
+
+— analyste Med
