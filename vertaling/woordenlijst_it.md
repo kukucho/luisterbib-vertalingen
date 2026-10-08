@@ -183,4 +183,4 @@ Biomedisch-neutraal register (Cecil Essentials of Medicine-stijl); geen persoonl
 - aambeien/hemorroïden → emorroidi; beenmerg → midollo osseo; bloedvergiftiging → sepsi
 - Personen (biografieën): namen niet vertalen; jaartallen/leeftijden voluit; plaatsnamen in het Italiaans waar gangbaar (Ulm, Duitsland → Germania, Parigi, Vienna, Zurigo…); titels van werken: officiële Italiaanse titel indien bestaand, anders origineel.
 - (nieuwe termen onderaan toevoegen)
-
+- BESLISSINGEN (Geneeskunde): ondertekening «— Med-analyst» → «— analista Med» (zoals «analista Hamer/Beerlandt/Hellinger»); «In relatie tot Beerlandt» → «In relazione a Beerlandt»; bijnierschors/-merg → corticale/midollare del surrene; beroerte → ictus; hartritmestoornis → aritmia cardiaca; getallen in afkortingen voluit (DSM-5 → DSM-cinque)
