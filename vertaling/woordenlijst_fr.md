@@ -124,6 +124,8 @@ Gangbare Franse GNM-terminologie (Nouvelle Médecine Germanique). Aanspreking: o
 - titelsuffix «GNM-perspectief» → «perspective de la NMG»; Syndroom → Syndrome; Noot → Note; Kiemlaag (kopregel) → Feuillet embryonnaire
 - ondertekening «— Hamer-analist» → «— analyste Hamer»
 - cijfers in codes spiegelen de bron (voluit in bron → voluit, cijfers in bron → cijfers laten)
+- nest-zorgconflict / nestzorgconflict → conflit de souci du nid (Nestsorge-Konflikt; niet «conflit de nid et de soin»)
+- BPPV → VPPB (vertige paroxystique positionnel bénin)
 - (nieuwe termen onderaan toevoegen)
 
 ## Geneeskunde
