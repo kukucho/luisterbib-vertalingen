@@ -1,0 +1,9 @@
+Urticaire. Perspective biomédicale.
+
+L'urticaire est une affection cutanée très fréquente, caractérisée par des plaques fugaces et prurigineuses — des gonflements surélevés, roses à rouges, dans la peau, qui, individuellement, persistent toujours moins de vingt-quatre heures avant de disparaître complètement. C'est un critère diagnostique.
+
+Le mécanisme central est l'activation des mastocytes. Les mastocytes sont présents partout dans le tissu conjonctif de la peau. Lorsqu'ils sont activés, ils libèrent de l'histamine, des prostaglandines et d'autres médiateurs. L'histamine se fixe sur les récepteurs de la paroi vasculaire, augmente sa perméabilité et provoque l'œdème dermique transitoire caractéristique.
+
+Deux formes principales sont distinguées. L'urticaire aiguë dure moins de six semaines et est souvent provoquée par une allergie alimentaire ou médicamenteuse, une infection ou une activation directe des mastocytes. Dans de nombreux cas, le déclencheur reste inconnu. L'urticaire spontanée chronique dure plus de six semaines sans déclencheur externe identifiable. Dans au moins cinquante pour cent des cas, un mécanisme auto-immun est actif : des auto-anticorps IgG dirigés contre le récepteur de haute affinité pour l'IgE présent sur les mastocytes les activent directement, indépendamment des allergènes.
+
+Le traitement commence par des antihistaminiques H-un non sédatifs — cétirizine, loratadine ou bilastine — pris quotidiennement. En cas d'urticaire spontanée chronique qui ne répond pas aux antihistaminiques, même à dose augmentée, l'omalizumab est l'étape suivante. L'omalizumab est un anticorps monoclonal dirigé contre les IgE et réduit nettement l'activation des mastocytes. En cas de réaction allergique grave avec angio-œdème des voies respiratoires, l'adrénaline intramusculaire est la première mesure qui sauve la vie.
