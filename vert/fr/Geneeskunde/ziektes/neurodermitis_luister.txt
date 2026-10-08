@@ -1,0 +1,9 @@
+Neurodermite. Perspective biomédicale.
+
+La neurodermite est le nom historique, courant dans la médecine germanophone, de la dermatite atopique. Sur le plan biomédical, il s'agit de la même affection. Le nom souligne toutefois une dimension très présente dans le tableau clinique de l'eczéma atopique : le rôle du système nerveux et du stress psychologique.
+
+Le mécanisme de base est identique à celui de l'eczéma atopique : un défaut de la barrière cutanée lié à la filaggrine et une réponse inflammatoire Th deux. L'accent supplémentaire de la neurodermite est mis sur l'inflammation neurogène. Le stress active l'axe hypothalamo-hypophyso-surrénalien et le système nerveux sympathique, ce qui fait monter les taux de cortisol et augmente l'activité noradrénergique. Simultanément, les terminaisons nerveuses sensorielles de la peau libèrent des neuropeptides, notamment la substance P, qui activent les mastocytes, favorisent la vasodilatation et amplifient l'inflammation. Les périodes de stress se traduisent ainsi de façon mesurable en poussées cutanées.
+
+Le cycle grattage-démangeaison joue un rôle central. La démangeaison conduit au grattage, le grattage provoque des lésions cutanées et une libération d'histamine, ce qui renforce à nouveau la démangeaison. Le grattage chronique induit une lichénification, c'est-à-dire un épaississement de la peau, et une sensibilisation centrale : le système nerveux central abaisse son seuil de perception du prurit, si bien qu'un contact normal est ressenti comme une démangeaison.
+
+Le traitement est identique à celui de l'eczéma atopique : émollients, corticoïdes topiques, inhibiteurs de la calcineurine et, dans les formes sévères, dupilumab ou inhibiteurs de JAK. En complément, la gestion du stress, la thérapie cognitivo-comportementale et la rupture du cycle grattage-démangeaison par des techniques comportementales et occlusives font partie d'une approche complète.
