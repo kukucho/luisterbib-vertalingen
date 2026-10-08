@@ -56,6 +56,10 @@ Vaste termen; gebruik consequent. Per onderdeel een sectie. Aanspreking: Helling
 - Bert Hellinger → niet vertalen
 - Schicksal / Demut (in bron Duits) → bij eerste vermelding behouden, daarna destin / humilité
 - aanmatiging → présomption; herinsluiting → réintégration; zuiging → attraction (aspiration); boete → expiation; compensatie → compensation; eerbied → respect
+- nakomeling → descendant; later lid → membre plus tardif; hechtingsvermogen → capacité d'attachement; uithuisplaatsing → placement hors du foyer; onterfde → déshérité; lotsverbondenheid → lien de destin
+- de eer geven → rendre l'honneur; eren → honorer; gever → donneur; vereffenen → solder; doodsbeweging → mouvement vers la mort; niet-gerouwde rouw → deuil non fait
+- schuldige trouw / dankbare trouw → fidélité coupable / fidélité reconnaissante; lieve dood → douce mort
+- aanspreking in uitgesproken heelzinnen: «tu» (enkelvoud), «vous» voor «jullie» (ouders/voorouders); «Ik blijf nog even» → «Je reste encore un moment»
 - (nieuwe termen onderaan toevoegen)
 
 ## Beerlandt
