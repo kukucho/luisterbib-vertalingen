@@ -1,0 +1,11 @@
+Ipoglicemia — nota di contesto biomedico.
+
+Dal punto di vista biomedico, l'ipoglicemia è uno stato di livelli anormalmente bassi di glucosio nel sangue, definito clinicamente come una glicemia inferiore a settanta milligrammi per decilitro. La triade di Whipple — glicemia bassa, sintomi corrispondenti e recupero dopo la correzione del glucosio — conferma la diagnosi.
+
+Per quanto riguarda le cause e i meccanismi: la causa più frequente è la terapia insulinica o gli antidiabetici orali nei pazienti diabetici. Nelle persone non diabetiche le cause sono: un tumore del pancreas che produce insulina, o insulinoma, l'insufficienza surrenalica, una grave epatopatia, il consumo di alcol a stomaco vuoto e rari disturbi enzimatici. Dal punto di vista fisiologico, il corpo reagisce all'ipoglicemia attraverso ormoni controregolatori — glucagone, epinefrina, ormone della crescita e cortisolo — che innalzano la glicemia mediante glicogenolisi e gluconeogenesi. Nell'ipoglicemia ricorrente questa risposta controregolatoria può risultare attenuata.
+
+Dal punto di vista clinico, i sintomi si dividono in due gruppi: sintomi adrenergici — tremore, sudorazione, palpitazioni, pallore, fame — e sintomi neuroglicopenici come difficoltà di concentrazione, confusione, visione offuscata, convulsioni e perdita di coscienza. L'ipoglicemia grave non trattata porta a un danno cerebrale permanente.
+
+Il trattamento comprende, nell'ipoglicemia lieve, l'assunzione di quindici-venti grammi di carboidrati a rapido assorbimento. In caso di perdita di coscienza: glucosio per via endovenosa o glucagone per via intramuscolare. Il trattamento causale è essenziale: adeguamento dello schema insulinico, asportazione dell'insulinoma o sostituzione ormonale nell'insufficienza surrenalica.
+
+In relazione a Beerlandt: mentre la lente biomedica spiega l'ipoglicemia come una carenza misurabile di glucosio nel sangue che incide in modo acuto e talvolta pericoloso per la vita sulla funzione cerebrale, Beerlandt descrive il lasciar scendere il proprio zucchero nel sangue come l'immagine fisica del tenersi piccoli e del non sfruttare le proprie forze. In entrambe le letture si tratta di un deficit di energia, anche se la causa è di natura biochimica nell'una e psicologica nell'altra.
