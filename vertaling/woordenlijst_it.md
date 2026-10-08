@@ -173,4 +173,14 @@ Gangbare Italiaanse GNM-terminologie (Nuova Medicina Germanica). Aanspreking: on
 - (nieuwe termen onderaan toevoegen)
 
 ## Geneeskunde
-(nog aan te vullen)
+Biomedisch-neutraal register (Cecil Essentials of Medicine-stijl); geen persoonlijke aanspreking. Altijd de officiële Italiaanse medische term (zoals een arts hem zegt); eponiemen: «malattia di X», «sindrome di X». Afkortingen die in het Italiaans gangbaar zijn mogen blijven (HIV, COPD→BPCO, ARDS, TC, RM).
+- «Cecil's Essentials of Medicine» → «Cecil's Essentials of Medicine» (titel behouden, geen officiële Italiaanse titel)
+- Sectie N … Hoofdstukken X tot en met Y → Sezione N … Capitoli da X a Y (getallen voluit)
+- «biomedische contextnotitie als aanvulling op de Beerlandt-bibliotheek» → «nota di contesto biomedico a integrazione della biblioteca Beerlandt»
+- Op biomedisch vlak → Dal punto di vista biomedico; Wat betreft de oorzaken → Per quanto riguarda le cause; Klinisch gezien → Dal punto di vista clinico
+- Eerste kopjes in lopende tekst: oorzaken → cause; symptomen → sintomi; diagnose → diagnosi; behandeling → trattamento (in lopende zin, zoals de bron)
+- ziektebeeld → quadro clinico; risicofactor → fattore di rischio; pathofysiologie → fisiopatologia; prognose → prognosi; poliklinisch → ambulatoriale
+- aambeien/hemorroïden → emorroidi; beenmerg → midollo osseo; bloedvergiftiging → sepsi
+- Personen (biografieën): namen niet vertalen; jaartallen/leeftijden voluit; plaatsnamen in het Italiaans waar gangbaar (Ulm, Duitsland → Germania, Parigi, Vienna, Zurigo…); titels van werken: officiële Italiaanse titel indien bestaand, anders origineel.
+- (nieuwe termen onderaan toevoegen)
+
