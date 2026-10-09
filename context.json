@@ -1,0 +1,14 @@
+{
+ "_uitleg": "Wat het voorvoegsel van de sleutel betekent: w_<experiment>_… . Lees dit vóór je een sleutel vertaalt.",
+ "experimenten": {
+  "verbinding": "Experiment \"Verbinding\": tekst-analyse van wat er tussen TWEE mensen gebeurt (HD-synastrie): welke centra anders gedefinieerd worden, welke kanalen elektromagnetisch, gezelschap of compromis zijn, gedeelde poorten met een risico en een gave. Toon: helder, neutraal-warm, bedoeld voor een begeleider.",
+  "laser": "Experiment \"Laser\": de bodygraph als fysiek houten model (lasergesneden uit een plaat MDF of multiplex). Technische maak-instructies voor een lasersnijmachine: kerf = snijbreedte van de laser, lanen = twee smalle banen per kanaal (zwart bewust / rood onbewust), LightBurn = de besturingssoftware (naam laten staan), MDF/multiplex = plaatmateriaal, graveren = oppervlakkig inbranden, snijden = helemaal doorsnijden. Houd het praktisch en kort; dit zijn werkinstructies.",
+  "bib": "Experiment \"Bibliotheek\": overzicht van alle uitleg-teksten en -opnames per soort (centrum, poort, kanaal, type, autoriteit, profiel, kruis) en per taal, met knoppen om te lezen/luisteren of een tekst te laten schrijven. Korte UI-zinnen en knoplabels.",
+  "factoren": "Experiment \"Factoren\": statistiek over hoe vaak een Human Design-kenmerk voorkomt in drie verzamelingen (eigen bibliotheek, Astro-Databank, Open Gauquelin), met zeldzame kenmerken. Toon: nuchter, eerlijk over onzekerheid.",
+  "familie": "Experiment \"Familie\": stamboom met mini-bodygraphs en analyses: welke poorten erven familieleden van elkaar, links/rechts-oriëntaties, hangende poorten.",
+  "astro": "Experiment \"Astro\": huidige planeetstanden (transits) en geboorteplaneten, transit-aspecten ten opzichte van de geboortekaart, gate-tijdlijn en huizen.",
+  "mandala": "Experiment \"Mandala\": cirkelvormige weergave van de incarnatiekruizen met hun kwartieren en poorten, de mensen die een kruis leven, en de uitleg-lagen per kruis (anatomie, mechanica, psychologie, synthese)."
+ },
+ "plaatshouders": "{e1}, {e2}, … worden door het programma ingevuld (een naam, een getal, een poortnummer…). Laat ze letterlijk staan; je mag ze in de zin verplaatsen.",
+ "meervoud": "Waar een zin een getal {e1} bevat voor een telbaar woord (kanaal/kanalen, poort/poorten): de Nederlandse tekst heeft dan een los achtervoegsel in de code. Schrijf zo neutraal mogelijk (bijv. \"channel(s)\" voor talen met enkel-/meervoud) of herformuleer zodat geen meervoudsvorm nodig is."
+}
