@@ -42,14 +42,14 @@
    "Reflector": "Spiegel der Gemeinschaft. Wartet für große Entscheidungen einen Mondzyklus."
   },
   "u_generator_het_sacrale_als_": {
-   "Generator": "<p><b>Das Sakrale als Kompass.</b> Der Generator hat ein definiertes Sakral-Zentrum — die einzige echte Kraftquelle im Human Design. Dieses Zentrum spricht nicht in Worten, sondern in Lauten: „uh-huh“ für Ja, „mm-mmm“ für Nein.</p><p><b>Aura: offen und umfassend.</b> Generatoren ziehen an, was für sie bestimmt ist.</p><p><b>Die Falle: Initiieren ohne Resonanz.</b> Sobald ein Generator von sich aus etwas beginnt, ohne zuvor auf etwas Äußeres zu reagieren, entsteht Frustration.</p>",
-   "Manifesting Generator": "<p><b>Beschleunigtes Leben.</b> Ein MG verbindet die responsive Kraft eines Generators mit der initiierenden Kraft eines Manifestors.</p><p><b>Informieren als zweite Schicht.</b> Zusätzlich zur sakralen Resonanz gilt: Lass die Menschen wissen, was du vorhast.</p><p><b>Die Falle: auf halbem Weg aufhören.</b> MGs überspringen gern Schritte, lassen aber manchmal etwas unfertig liegen, wozu die sakrale Resonanz noch Ja sagte.</p>",
+   "Generator": "<p><b>Das Sakrale als Kompass.</b> Der Generator hat ein definiertes Sakral-Zentrum — die einzige echte Kraftquelle im Human Design. Dieses Zentrum spricht nicht in Worten, sondern in Lauten: „uh-huh“ für Ja, „mm-mmm“ für Nein.</p><p><b>Aura: offen und umarmend.</b> Generatoren ziehen an, was für sie bestimmt ist.</p><p><b>Die Falle: Initiieren ohne Antwort.</b> Sobald ein Generator von sich aus etwas beginnt, ohne zuvor auf etwas Äußeres zu reagieren, entsteht Frustration.</p>",
+   "Manifesting Generator": "<p><b>Beschleunigtes Leben.</b> Ein MG verbindet die reagierende Kraft eines Generators mit der initiierenden Kraft eines Manifestors.</p><p><b>Informieren als zweite Schicht.</b> Zusätzlich zur sakralen Antwort gilt: Lass die Menschen wissen, was du vorhast.</p><p><b>Die Falle: auf halbem Weg aufhören.</b> MGs überspringen gern Schritte, lassen aber manchmal etwas unfertig liegen, wozu die sakrale Antwort noch Ja sagte.</p>",
    "Projector": "<p><b>Nicht hier, um zu arbeiten wie die Mehrheit.</b> Projektoren haben keine konstante sakrale Energie. Ihr System ist darauf angelegt, Systeme zu sehen — Menschen, Prozesse, Dynamiken.</p><p><b>Die Einladung ist keine Frage.</b> Eine Einladung ist Anerkennung. Jemand sieht dich, spürt deine Aura und macht Raum für das, was du zu bieten hast.</p><p><b>Bitterkeit ist das Signal.</b> Wenn du dich jemandem anbietest, der dich nicht fragt, folgt Bitterkeit.</p><p><b>Ruhe ist produktiv.</b> Die Aura des Projektors wirkt in der Ruhe — Energien werden verdaut, Einsichten reifen.</p>",
    "Manifestor": "<p><b>Dazu bestimmt, zu beginnen.</b> Manifestoren sind die Initiatoren. Sie bekommen Impulse von innen und setzen Dinge in Bewegung — ohne Einladung.</p><p><b>Informieren, nicht erklären.</b> Lass die Menschen um dich herum wissen, was du tun wirst, bevor du es tust.</p><p><b>Frieden ist die Signatur.</b> Wenn der Manifestor in seiner Kraft steht, stellt sich ein innerer Frieden ein.</p>",
    "Reflector": "<p><b>Selten und sorgfältig.</b> Etwa 1 % der Bevölkerung. Reflektoren haben keine definierten Zentren — sie spiegeln ihre Umgebung vollständig.</p><p><b>Der Mondzyklus als Autorität.</b> Für große Entscheidungen einen vollen 28-Tage-Zyklus abwarten.</p><p><b>Die Umgebung ist alles.</b> In einer guten Umgebung blüht der Reflektor auf.</p>"
   },
   "u_wachten_op_respons_reagere": {
-   "Wachten op respons": "<p><b>Reagieren, nicht initiieren.</b> Die sakrale Resonanz kommt vor dem Denken. Fragen, die von außen kommen, aktivieren das Sakrale.</p><p><b>Ja-Nein-Fragen als Werkzeug.</b> Bei großen Entscheidungen: Lass dir von jemandem eine klare Frage stellen und höre auf den Laut, der in dir aufsteigt.</p>",
+   "Wachten op respons": "<p><b>Reagieren, nicht initiieren.</b> Die sakrale Antwort kommt vor dem Denken. Fragen, die von außen kommen, aktivieren das Sakrale.</p><p><b>Ja-Nein-Fragen als Werkzeug.</b> Bei großen Entscheidungen: Lass dir von jemandem eine klare Frage stellen und höre auf den Laut, der in dir aufsteigt.</p>",
    "Wachten op de Uitnodiging": "<p><b>Anerkennung als Schlüssel.</b> Bei der Einladung geht es darum, gesehen zu werden. Jemand nimmt dich wahr und macht Raum. Dann kommt dein Wegweiser erst richtig zur Geltung.</p><p><b>Vier große Einladungen im Leben.</b> Liebe, Beruf, Wohnort, Freundschaft.</p><p><b>Ohne Einladung: Widerstand.</b> Selbst richtiger Rat wird abgelehnt, wenn er ungefragt kommt.</p>",
    "Informeren": "<p><b>Ein Satz genügt.</b> „Ich gehe nach draußen.“ Es ist keine Rechtfertigung — es ist ein Signal an die Aura um dich herum.</p><p><b>Warum Informieren wirkt.</b> Die Manifestor-Aura ist geschlossen und treibend. Ohne Ankündigung erleben andere die Bewegung als Überfall.</p>",
    "Wachten een maancyclus": "<p><b>Der Mond als Metronom.</b> 28 Tage, um eine Entscheidung reifen zu lassen.</p><p><b>Sich nicht zurückziehen — sprechen.</b> Sprich mit verschiedenen Menschen über die Frage.</p>"
@@ -199,8 +199,8 @@
   "persoonlijkheid_bewust": "Persönlichkeit (bewusst)",
   "beide": "Beide",
   "gedefinieerd_centrum": "Definiertes Zentrum",
-  "bodygraph_hint": "Fahre über ein <b>Tor</b> oder einen <b>Kanal</b> für Details.",
-  "bodygraph_footer": "Alle 64 Tore und 36 Kanäle sind immer gezeichnet. Fahre über ein Tor oder einen Kanal für Details im Feld rechts.",
+  "bodygraph_hint": "Bewege die Maus über ein <b>Tor</b> oder einen <b>Kanal</b> für Details.",
+  "bodygraph_footer": "Alle 64 Tore und 36 Kanäle sind immer gezeichnet. Bewege die Maus über ein Tor oder einen Kanal für Details im Feld rechts.",
   "actief_kanalen": "{n} aktiver Kanal",
   "actief_kanalen_mv": "{n} aktive Kanäle",
   "laag_bibliotheek": "Bibliothek — allgemeiner Referenztext",
@@ -351,7 +351,7 @@
   "pers_bewust": "▲ Persönlichkeit — bewusst",
   "var_uitleg_solo": "Die 4 Pfeile beschreiben, <b>wie</b> du optimal funktionierst: was du isst, wo du bist, wie du schaust und was dich bewegt. Orientierungen ◀ (fokussiert) oder ▶ (peripher) bestimmen den Modus pro Hemisphäre. Wenn du einen Pfeil berührst, verändert das oft die anderen drei.",
   "var2_kies": "Wähle eine zweite Person",
-  "var2_zelfde": "Person 1 und 2 sind dieselbe. Wähle zwei verschiedene Profile.",
+  "var2_zelfde": "Person 1 und 2 sind dieselbe Person. Wähle zwei verschiedene Profile.",
   "var2_st_gelijk": "gleich",
   "var2_st_verschil": "verschieden",
   "var2_st_aanvul": "Ergänzung",
@@ -368,7 +368,7 @@
   "var2_uitleg_samen": "Jede Pfeil-Karte zeigt beide Werte nebeneinander und ob sie gleich sind, sich unterscheiden oder einander ergänzen. Die App benennt die Tatsache — die Bedeutung des Unterschieds erklärst du in deiner Arbeit.",
   "kies_tweede": "Wähle eine zweite Person",
   "kies_twee_profielen": "Wähle zwei verschiedene Profile.",
-  "samen_zelfde": "Person 1 und 2 sind dieselbe.",
+  "samen_zelfde": "Person 1 und 2 sind dieselbe Person.",
   "api_sleutel_lbl": "🔑 API-Schlüssel:",
   "api_opslaan": "✓ Speichern",
   "api_uitleg": "Hole dir deinen Schlüssel über",
