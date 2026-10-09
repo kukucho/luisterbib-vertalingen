@@ -1,0 +1,23 @@
+{
+ "_uitleg": "Wat de sleutels vóór de punt betekenen — lees dit voor je vertaalt.",
+ "categorieen": {
+  "det": "Determinatie (PHS, \"wat je eet/drinkt\"): de zes soorten (kleur 1-6) — telkens één woord, een manier van eten/drinken of zintuig.",
+  "detmod": "Bijwoord bij de determinatie, twee per soort (bv. Eetlust: Opeenvolgend/Afwisselend; Aanraking: Rustig/Onrustig). Kort houden.",
+  "env": "Omgeving (PHS): zes soorten plekken (Grotten, Markten, Keukens, Bergen, Valleien, Kustlijnen) — letterlijk plekken, niet metaforisch.",
+  "envmod": "Bijwoord bij de omgeving (bv. Markten: Intern/Extern; Keukens: Nat/Droog; Bergen: Actief/Passief).",
+  "motiv": "Motivatie (PHS): zes motieven (Angst, Hoop, Verlangen, Behoefte, Schuld, Onschuld).",
+  "persp": "Perspectief (PHS): zes gezichtspunten (Overleving, Mogelijkheid, Macht, Wens/behoefte, Waarschijnlijkheid, Persoonlijk). Houd de \"/\" waar die staat.",
+  "cogn": "Cognitie/zintuig (PHS): Geur, Smaak, Uiterlijke visie (buiten zien), Innerlijke visie (binnen zien), Gevoel, Aanraking.",
+  "lr": "Links/Rechts = de richting van een PHS-pijl (links = passief/receptief, rechts = actief) — enkel het woord voor de richting.",
+  "signatuur": "Human Design-\"signatuur\": het gevoel dat klopt wanneer je op je eigen strategie leeft (Succes, Voldoening, Vrede, Verrassing).",
+  "nietzelf": "\"Niet-zelf-thema\": het gevoel wanneer je niet volgens je strategie leeft (Verbittering, Frustratie, Boosheid/Woede, Ontgoocheling/Teleurstelling). Woede en Boosheid zijn dezelfde emotie in twee spellingen, Ontgoocheling en Teleurstelling ook.",
+  "orient": "Oriëntatie van een pijl in de variabelen-cognitie (Gefocused, Perifeer, Binair, Enkelvoudig). \"Gefocused\" is de Engelse vorm met Nederlandse uitgang: vertaal als het begrip (gericht/focused), niet als het woord.",
+  "lijn": "De zes lijnen van een poort: naam (Onderzoeker, Kluizenaar, Martelaar, Opportunist, Ketter, Rolmodel), kern (sterke kant) en schaduw (valkuil). Elk een korte zin/frase.",
+  "planeet": "Planeten/punten van de kaart. \"N. Maansknoop\"/\"Z. Maansknoop\" = noordelijke/zuidelijke maansknoop (afgekort, zo kort houden).",
+  "poort": "Naam van één van de 64 poorten (= hexagram van de I Tjing, met een HD-thema). Kort, naamwoord of korte frase; de Spaanse versie staat als voorbeeld in es_voorbeeld.json.",
+  "kanaal": "Naam van één van de 36 kanalen (verbinding van twee poorten). Kort; de Spaanse versie staat als voorbeeld.",
+  "kruis": "Naam van een incarnatiekruis (zoals \"Kruis van Beperking\", \"Slapende Feniks\", \"Zelfexpressie\"). Sleutel = hoek|poort. Namen mogen in het Nederlands of Engels beginnen; vertaal als eigennaam-betekenis, geen letterlijke woord-voor-woord. Gebruik de woordenlijst waar het hoek-type voorkomt.",
+  "lbl": "Losse labels. Variabelen-velden:  Spijsvertering (PHS-onderdeel \"digestion\"), Bewustzijn (PHS-onderdeel \"awareness\"), Kleur (het woord \"kleur\" in \"Kleur 1:\" = de HD-kleur 1-6, geen verf). Knoplabels van de speler in de rondleiding (kort houden): Jouw persoonlijke uitleg (een opname die over de eigen kaart van de gebruiker gaat), Dit profiel op dit kruis (de uitleg van het profiel binnen het incarnatiekruis), Alles na elkaar (speel de hele lijst af), Afspeellijst, Er speelt niets, Vorige, Volgende.",
+  "kruistype": "De drie soorten kruis: Rechterhoek, Linkerhoek, Juxtapositie (Right Angle / Left Angle / Juxtaposition). Houd de gangbare HD-vertaling aan."
+ }
+}
