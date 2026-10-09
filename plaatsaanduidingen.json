@@ -1,0 +1,122 @@
+{
+ "_uitleg": "Wat de {…}-plaatsen in een zin betekenen. Laat ze staan (zelfde tekens); je mag ze in de zin verplaatsen als je taal dat vraagt.",
+ "per_sleutel": {
+  "u_bib_telling_1": {
+   "e1": "getal (aantal) — de code vult het in",
+   "e2": "stuk opmaak/blok dat de code invult — niet aanraken"
+  },
+  "u_bib_telling_n": {
+   "e1": "getal (aantal) — de code vult het in",
+   "e2": "stuk opmaak/blok dat de code invult — niet aanraken"
+  },
+  "u_bib_annot_1": {
+   "e1": "getal (aantal) — de code vult het in"
+  },
+  "u_bib_annot_n": {
+   "e1": "getal (aantal) — de code vult het in"
+  },
+  "u_lijn_bewust": {
+   "e1": "getal (aantal) — de code vult het in"
+  },
+  "u_lijn_onbewust": {
+   "e1": "getal (aantal) — de code vult het in"
+  },
+  "u_nu_zie_je_welke_centra_bij": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in",
+   "e2": "getal (aantal) — de code vult het in"
+  },
+  "u_een_centrum_wordt_niet_zom": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in",
+   "e2": "getal (aantal) — de code vult het in",
+   "e5": "kleurcode in de opmaak — niet aanraken",
+   "e6": "kleurcode in de opmaak — niet aanraken",
+   "e7": "naam (of voornaam) van de persoon — de code vult die in"
+  },
+  "u_heeft_kanaal_1": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in",
+   "e2": "getal (aantal) — de code vult het in"
+  },
+  "u_heeft_kanaal_n": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in",
+   "e2": "getal (aantal) — de code vult het in"
+  },
+  "u_de_64_poorten_zijn_de_numm": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in",
+   "e2": "kleurcode in de opmaak — niet aanraken",
+   "e3": "kleurcode in de opmaak — niet aanraken"
+  },
+  "u_uit_de_combinatie_van_welk": {
+   "e1": "stuk opmaak/blok dat de code invult — niet aanraken",
+   "e2": "stuk opmaak/blok dat de code invult — niet aanraken",
+   "e3": "stuk opmaak/blok dat de code invult — niet aanraken"
+  },
+  "u_alle_lagen_samen_vormen_he": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in",
+   "e2": "stuk opmaak/blok dat de code invult — niet aanraken",
+   "e3": "stuk opmaak/blok dat de code invult — niet aanraken",
+   "e4": "stuk opmaak/blok dat de code invult — niet aanraken"
+  },
+  "u_dit_experiment_toont_en_ee": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in"
+  },
+  "u_dit_experiment_is_een_teks": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in"
+  },
+  "u_dit_drieluik_toont_alleen_": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in"
+  },
+  "u_dit_experiment_zet_en_een_": {
+   "e1": "naam (of voornaam) van de persoon — de code vult die in"
+  },
+  "geen_bib_in_taal": {
+   "laag": "waarde die de code invult (bv. aantal, naam, datum)",
+   "taal": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "geen_bib_poort": {
+   "laag": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "geen_bib_kanaal": {
+   "laag": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "geen_bib_centrum": {
+   "laag": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "geen_audio_in_taal": {
+   "taal": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "actief_kanalen": {
+   "n": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "actief_kanalen_mv": {
+   "n": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "kanalen_centra": {
+   "n": "waarde die de code invult (bv. aantal, naam, datum)",
+   "m": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "persoon_n": {
+   "n": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "afdruk_voet": {
+   "datum": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "afdruk_prof_sub": {
+   "p": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "afdruk_aut_sub": {
+   "a": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "kleur_nr": {
+   "n": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "veld_onbekend": {
+   "v": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "velden_ingevuld": {
+   "n": "waarde die de code invult (bv. aantal, naam, datum)"
+  },
+  "var2_onherleid": {
+   "v": "waarde die de code invult (bv. aantal, naam, datum)"
+  }
+ }
+}
